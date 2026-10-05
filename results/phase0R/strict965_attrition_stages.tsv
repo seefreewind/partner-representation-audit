@@ -1,0 +1,7 @@
+stage	genes
+previous strict pre-screen genes	965
+after exact RCV P/LP missense	941
+after unambiguous MONDO normalization	763
+at least 2 diseases after parent-child collapse	549
+at least 2 diseases with >=5 unique variants each	253
+strict >=10 variants/disease and >=20 total	137

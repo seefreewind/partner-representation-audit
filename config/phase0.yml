@@ -1,0 +1,30 @@
+project: interface-resolved-allelic-heterogeneity
+snapshot:
+  clinvar_release: 2026-09
+  clinvar_rcv_url: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/xml/RCV_release/ClinVarRCVRelease_2026-09.xml.gz
+  clinvar_variant_summary_url: https://ftp.ncbi.nlm.nih.gov/pub/clinvar/tab_delimited/archive/variant_summary_2026-09.txt.gz
+filters:
+  accepted_clinical_significance:
+    - Pathogenic
+    - Likely pathogenic
+    - Pathogenic/Likely pathogenic
+  excluded_significance_patterns:
+    - conflicting
+    - uncertain significance
+    - benign
+  eligible_origin_patterns:
+    - germline
+  disease_minimums: [2, 3, 5, 10, 15, 20]
+  expanded_variants_per_disease: 5
+  strict_variants_per_disease: 10
+  min_credible_partners: 3
+  partner_analysis_ready_fraction: 0.70
+sources:
+  mondo_obo: https://github.com/monarch-initiative/mondo/releases/download/v2026-09-01/mondo.obo
+  gencc_tsv: https://search.thegencc.org/download/action/submissions-export-tsv
+  intact_mitab: https://ftp.ebi.ac.uk/pub/databases/intact/current/psimitab/intact.zip
+  pioneer_downloads: https://pioneer.yulab.org/downloads
+  biogrid_physical: https://downloads.thebiogrid.org/Download/BioGRID/Release-Archive/BIOGRID-5.0.261/BIOGRID-MV-Physical-5.0.261.tab3.zip
+  pioneer_very_high_human: https://pioneer.yulab.org/static/predictions/very_high/human.txt
+  hgnc_non_alt_loci: https://storage.googleapis.com/public-download-files/hgnc/tsv/tsv/non_alt_loci_set.txt
+  clinvar_eutils: https://eutils.ncbi.nlm.nih.gov/entrez/eutils/

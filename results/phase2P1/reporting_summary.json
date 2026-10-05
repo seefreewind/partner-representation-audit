@@ -1,0 +1,72 @@
+{
+  "verdict": "NO_GLOBAL_PARTNER_IDENTITY_SUPPORT",
+  "preregistration_SHA256": "d657fab6b24f9aa757f9773bb1e9e0bd5d850e743eab6bdf819f126326ced9c3",
+  "primary_genes": 10,
+  "primary_residues": 547,
+  "median_common_partners": 17.0,
+  "median_XPAIR_labeled_R2": 0.0130652031712479,
+  "median_XPAIR_sorted_R2": 0.0084828021079907,
+  "median_delta_R2": 0.0017955266024545,
+  "Q1": 0.0001412207782480124,
+  "Q3": 0.00403077822958735,
+  "minimum": -0.0222976783925645,
+  "maximum": 0.012493032038413,
+  "bootstrap_CI_low": -0.00410526281372485,
+  "bootstrap_CI_high": 0.00495717049800115,
+  "positive_gene_n": 8,
+  "total_gene_n": 10,
+  "positive_gene_fraction": 0.8,
+  "zero_gene_n": 0,
+  "sign_test_P": 0.0546875,
+  "condition_A_pass": false,
+  "condition_B_pass": true,
+  "global_support_rule_pass": false,
+  "genes_q_XPAIR_DELTA_lt_0_05": [
+    "RS1"
+  ],
+  "genes_q_XPAIR_LABELED_lt_0_05": [],
+  "median_SPPIDER_delta": 1.5873522953556017e-05,
+  "cross_method_Spearman": -0.7454545454545454,
+  "positive_both": 4,
+  "restricted_nominal_concordant": 10,
+  "correlation_evaluable": 3,
+  "strongest_generic_baseline": {
+    "baseline": "DOMAIN_PROXY",
+    "n_genes": 2,
+    "median_baseline_R2": 0.041463863632466645,
+    "median_row_matched_XPAIR_R2": 0.024912545859908,
+    "median_XPAIR_increment": -0.0165513177725586
+  },
+  "training_overlap_status": "TRAINING_OVERLAP_UNKNOWN",
+  "predictive_summary": [
+    {
+      "representation": "SPPIDER_LABELED",
+      "balanced_accuracy": 0.5503748828491096,
+      "macro_F1": 0.48576923076923073,
+      "log_loss": 2.5266123137015484
+    },
+    {
+      "representation": "SPPIDER_SORTED",
+      "balanced_accuracy": 0.5356718882492078,
+      "macro_F1": 0.462009569650223,
+      "log_loss": 2.574724258187971
+    },
+    {
+      "representation": "XPAIR_LABELED",
+      "balanced_accuracy": 0.4710021577559338,
+      "macro_F1": 0.4626769995688525,
+      "log_loss": 2.456586812716718
+    },
+    {
+      "representation": "XPAIR_SORTED",
+      "balanced_accuracy": 0.42737132352941176,
+      "macro_F1": 0.41564289670345667,
+      "log_loss": 3.0772282424329864
+    }
+  ],
+  "extension_complete_n": 7,
+  "extension_positive_n": 5,
+  "extension_q_delta_genes": [],
+  "original_verdict": "NO_GO_EDGETIC_REPRESENTATION",
+  "post_hoc_selection": false
+}

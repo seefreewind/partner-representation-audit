@@ -1,0 +1,3 @@
+gene	n_exact_RCV	n_unique_PLP_missense_variants	n_normalized_diseases	n_distinct_diseases_after_parent_child_collapse	variant_count_per_disease	strict_status	reason	mechanism_status	credible_PPI_partners	PIONEER_partners	existing_structural_partner_proxy
+ACTB	119	83	4	4	MONDO:0009470=4 (4 residues);MONDO:0011823=1 (1 residues);MONDO:0100433=3 (3 residues);MONDO:0700092=2 (2 residues)	NO	FEWER_THAN_TWO_DISEASES_WITH_5_VARIANTS	UNRESOLVED	509	165	8
+ACTG1	87	51	3	3	MONDO:0018838=2 (2 residues);MONDO:0019497=1 (1 residues);MONDO:0019719=1 (1 residues)	NO	FEWER_THAN_TWO_DISEASES_WITH_5_VARIANTS	UNRESOLVED	202	47	3

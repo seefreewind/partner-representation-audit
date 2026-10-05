@@ -1,0 +1,22 @@
+{
+  "frozen_files_checked": 124,
+  "unchanged": true,
+  "requested_accessions": 7300,
+  "common_primary": 9978,
+  "pilot": [
+    {
+      "method": "sppider",
+      "selected_pairs": 57,
+      "scored_pairs": 57,
+      "statuses": "{\"SCORED\": 57}"
+    },
+    {
+      "method": "xpair",
+      "selected_pairs": 57,
+      "scored_pairs": 42,
+      "statuses": "{\"SCORED\": 42, \"MODEL_LENGTH_UNSUPPORTED\": 15}"
+    }
+  ],
+  "verdict": "GO_RESUME_PHASE2S",
+  "full_benchmark_started": false
+}

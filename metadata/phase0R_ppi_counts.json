@@ -1,0 +1,21 @@
+{
+  "strict_gene_n": 137,
+  "genes_ge3_credible_partners": 133,
+  "genes_with_experimental_ppi": 135,
+  "genes_with_pioneer_coverage": 134,
+  "ppi_gene_n": 139,
+  "pilot_coverage": {
+    "ACTB": {
+      "credible_partners": 509,
+      "PIONEER_partners": 165
+    },
+    "ACTG1": {
+      "credible_partners": 202,
+      "PIONEER_partners": 47
+    }
+  },
+  "genes_with_predictomes_coverage": 67,
+  "source": "BioGRID MV-Physical 5.0.261; candidate-gene IntAct PSICQUIC; precomputed PIONEER very-high confidence; Predictomes SPOC >0.86",
+  "huRI": "UNAVAILABLE_TIMEOUT_RECORDED",
+  "predictomes": "PAIR_SCORE_TABLE_ACQUIRED"
+}

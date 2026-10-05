@@ -1,0 +1,13 @@
+path	SHA256	row_count	modification_time_local	originating_phase
+results/phase1A/cohort_intersection.tsv	f388fc99bcb32f5e2983963e64ab8db2266c40287e49a966aa523b311a9fe30f	3358	2026-09-28T18:05:46.800000+08:00	PHASE1A
+results/phase1A/coverage_by_gene.tsv	ee17a1aadea3c2b40f6d19a4817720c0eb4798279dec5d73af3d2bc78232b26a	137	2026-09-28T18:38:34.460000+08:00	PHASE1A
+results/phase1A/differential_missingness.tsv	f5182f0ec2e1f64c95d3a3c4dbb8ebf78c73cc4e147b1a10a91f932178c351c6	274	2026-09-28T18:38:34.470000+08:00	PHASE1A
+results/phase1A/exemplar_candidates.tsv	5866583314528d97a850b96d878055f9ddfd685edacda69cb94f6045e0ea3501	10	2026-09-28T18:38:34.470000+08:00	PHASE1A
+results/phase1A/interface_mapping.tsv	c868eca06b3d3a241d4ecf9d4ac061ad4a66659ab5e53e860272df20c29663ae	64361	2026-09-28T18:38:16.080000+08:00	PHASE1A
+results/phase1A/interface_overlap.tsv	bcebd0729c07aefb0ea9beb750a31878e7f5f8e2264e97aac7d400819759d582	6940	2026-09-28T18:38:16.160000+08:00	PHASE1A
+results/phase1A/mutpred_training_overlap.tsv	8622b3ab344a3f9d24e848bc9c5dc6ce8b8c8c3b7a6d42d588414172577a16f2	13089	2026-09-28T18:38:34.690000+08:00	PHASE1A
+results/phase1A/partner_specific_matrix_disruption.tsv	3fb4a3d8bc2389cd10faf01deb299b9dd698cebbfb8818fad776a03d9c85c30b	0	2026-09-28T18:38:34.690000+08:00	PHASE1A
+results/phase1A/partner_specific_matrix_structural.tsv	1926759e32eaa3129cef9e1a7b4d7ec33abf27ad19064720b986c78869cfd59a	1556399	2026-09-28T18:38:33.940000+08:00	PHASE1A
+results/phase1A/ppi_provenance.tsv	bf3f71949ab4698a4b950cc9ad3533f3f279f68610cbacf9da93f2c97e72e011	16167	2026-09-28T18:38:15.790000+08:00	PHASE1A
+results/phase1A/protein_mapping.tsv	9a113e65a01f79e7df9d58b621e60959708fd7729b19bfb85675fba0b6a054af	14007	2026-09-28T18:10:18.730000+08:00	PHASE1A
+results/phase1A/structure_coverage.tsv	af0edc71bde922d8089093937b117496260a72bfef5bc85ea5850499ee5d680f	16167	2026-09-28T18:54:15.620000+08:00	PHASE1A

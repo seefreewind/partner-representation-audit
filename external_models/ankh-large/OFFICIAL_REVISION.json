@@ -1,0 +1,33 @@
+{
+  "repo_id": "ElnaggarLab/ankh-large",
+  "revision": "74b371dbfa3ee0a05d32ae74df0c2e0b82d6b9a6",
+  "files": [
+    "config.json",
+    "pytorch_model.bin",
+    "special_tokens_map.json",
+    "tokenizer.json",
+    "tokenizer_config.json"
+  ],
+  "official_metadata": {
+    "config.json": {
+      "bytes": 849,
+      "sha256": null
+    },
+    "pytorch_model.bin": {
+      "bytes": 7515077421,
+      "sha256": "517b6e8b279dedcb477af240b35c46bd6eb3307723eb281e60d4b2c8a87b889b"
+    },
+    "special_tokens_map.json": {
+      "bytes": 2585,
+      "sha256": null
+    },
+    "tokenizer.json": {
+      "bytes": 31153,
+      "sha256": null
+    },
+    "tokenizer_config.json": {
+      "bytes": 2851,
+      "sha256": null
+    }
+  }
+}

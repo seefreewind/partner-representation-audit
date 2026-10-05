@@ -1,0 +1,7 @@
+minimum_variants_per_disease	genes	disease_groups	unique_variants_in_qualifying_groups	evidence_stage
+2	410	1340	17996	exact RCV + unambiguous MONDO + parent-child collapse
+3	342	1032	17119	exact RCV + unambiguous MONDO + parent-child collapse
+5	253	701	15792	exact RCV + unambiguous MONDO + parent-child collapse
+10	155	390	13054	exact RCV + unambiguous MONDO + parent-child collapse
+15	105	239	10934	exact RCV + unambiguous MONDO + parent-child collapse
+20	76	174	9120	exact RCV + unambiguous MONDO + parent-child collapse

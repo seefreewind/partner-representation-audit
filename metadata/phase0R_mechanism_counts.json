@@ -1,0 +1,12 @@
+{
+  "strict_gene_n": 137,
+  "CONFIRMED_COMPATIBLE": 0,
+  "UNRESOLVED": 132,
+  "CONFIRMED_INCOMPATIBLE": 5,
+  "NOT_KNOWN_INCOMPATIBLE": 132,
+  "pair_state_counts": {
+    "UNRESOLVED": 3335,
+    "CONFIRMED_INCOMPATIBLE": 7,
+    "CONFIRMED_COMPATIBLE": 25
+  }
+}

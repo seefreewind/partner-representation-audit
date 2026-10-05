@@ -1,0 +1,4 @@
+test	id1	id2	interaction_output	finite	length_match	result
+official_documented_workflow	sp|P04637|P53_HUMAN	sp|P20248|CCNA2_HUMAN	True	True	True	PASS
+official_documented_workflow	sp|P04637|P53_HUMAN	sp|Q12888|TP53B_HUMAN	True	True	True	PASS
+official_documented_workflow	sp|P04637|P53_HUMAN	sp|Q00987|MDM2_HUMAN	True	True	True	PASS

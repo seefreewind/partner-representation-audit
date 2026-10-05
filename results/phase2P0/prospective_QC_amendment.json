@@ -1,0 +1,10 @@
+{
+  "previous_specification_SHA256": "451363afddaebc838745172fbd3334bee9edd23c3486cdba7f160e625efc614b",
+  "reason": "Distinguish unique amino-acid substitutions from distinct ClinVar Variation IDs; multiple nucleotide variants may encode the same substitution.",
+  "changed_fields": [
+    "n_substitutions",
+    "n_Variation_IDs"
+  ],
+  "cohort_membership_changed": false,
+  "association_statistics_calculated": false
+}

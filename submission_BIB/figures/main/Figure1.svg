@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="481.889764pt" height="439.370079pt" viewBox="0 0 481.889764 439.370079" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-05T17:36:48.199705</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 439.370079 
+L 481.889764 439.370079 
+L 481.889764 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial'; text-anchor: start" x="24.094488" y="22.508906" transform="rotate(-0 24.094488 22.508906)">a   STAGE 1  Technical scoreability</text>
+   </g>
+   <g id="text_2">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Arial'; text-anchor: start" x="32.96126" y="62.968546" transform="rotate(-0 32.96126 62.968546)">137</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 9px; font-family: 'Arial'; text-anchor: start" x="32.96126" y="85.125016" transform="rotate(-0 32.96126 85.125016)">strict genes</text>
+   </g>
+   <g id="text_4">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Arial'; text-anchor: start" x="183.696378" y="62.968546" transform="rotate(-0 183.696378 62.968546)">132</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 9px; font-family: 'Arial'; text-anchor: start" x="183.696378" y="85.125016" transform="rotate(-0 183.696378 85.125016)">not-known-incompatible</text>
+   </g>
+   <g id="text_6">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Arial'; text-anchor: start" x="343.298268" y="62.968546" transform="rotate(-0 343.298268 62.968546)">42</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 9px; font-family: 'Arial'; text-anchor: start" x="343.298268" y="85.125016" transform="rotate(-0 343.298268 85.125016)">structure-ready</text>
+   </g>
+   <g id="patch_2">
+    <path d="M 105.891864 61.041897 
+Q 134.928244 61.041897 162.84659 61.041897 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 159.44659 59.341897 
+L 162.84659 61.041897 
+L 159.44659 62.741897 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 292.093527 61.041897 
+Q 307.830138 61.041897 322.448715 61.041897 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 319.048715 59.341897 
+L 322.448715 61.041897 
+L 319.048715 62.741897 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="text_8">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Arial'; text-anchor: start" x="32.96126" y="120.768032" transform="rotate(-0 32.96126 120.768032)">97.91% row scoreability</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 13px; font-family: 'Arial'; text-anchor: start" x="276.79748" y="120.768032" transform="rotate(-0 276.79748 120.768032)">≠  3 balanced genes</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8.5px; font-family: 'Arial'; text-anchor: start" x="32.96126" y="141.961177" transform="rotate(-0 32.96126 141.961177)">MutPred-PPI: 10,917/11,150 submitted rows scored</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="text_11">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial'; text-anchor: start" x="24.094488" y="154.484399" transform="rotate(-0 24.094488 154.484399)">b   STAGE 2  Phenotype-balanced representation</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #444444" x="32.96126" y="189.164091" transform="rotate(-0 32.96126 189.164091)">MutPred-PPI</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start" x="192.56315" y="189.164091" transform="rotate(-0 192.56315 189.164091)">9 with C4 ≥70%</text>
+   </g>
+   <g id="patch_4">
+    <path d="M 318.693842 185.792454 
+Q 334.430453 185.792454 349.04903 185.792454 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 345.64903 184.092454 
+L 349.04903 185.792454 
+L 345.64903 187.492454 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="text_14">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial'; text-anchor: start" x="369.898583" y="189.164091" transform="rotate(-0 369.898583 189.164091)">3 balanced</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #b57900" x="32.96126" y="219.990484" transform="rotate(-0 32.96126 219.990484)">SPPIDER-seq</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start" x="192.56315" y="219.990484" transform="rotate(-0 192.56315 219.990484)">127 with C4 ≥70%</text>
+   </g>
+   <g id="patch_5">
+    <path d="M 318.693842 216.618847 
+Q 334.430453 216.618847 349.04903 216.618847 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 345.64903 214.918847 
+L 349.04903 216.618847 
+L 345.64903 218.318847 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial'; text-anchor: start" x="369.898583" y="219.990484" transform="rotate(-0 369.898583 219.990484)">23 balanced</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start; fill: #0072b2" x="32.96126" y="250.816877" transform="rotate(-0 32.96126 250.816877)">X-PAIR</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 10px; font-family: 'Arial'; text-anchor: start" x="192.56315" y="250.816877" transform="rotate(-0 192.56315 250.816877)">107 with C4 ≥70%</text>
+   </g>
+   <g id="patch_6">
+    <path d="M 318.693842 247.44524 
+Q 334.430453 247.44524 349.04903 247.44524 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+    <path d="M 345.64903 245.74524 
+L 349.04903 247.44524 
+L 345.64903 249.14524 
+" style="fill: none; stroke: #777777; stroke-linecap: round"/>
+   </g>
+   <g id="text_20">
+    <text style="font-weight: 700; font-size: 10px; font-family: 'Arial'; text-anchor: start" x="369.898583" y="250.816877" transform="rotate(-0 369.898583 250.816877)">15 balanced</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="text_21">
+    <text style="font-weight: 700; font-size: 11px; font-family: 'Arial'; text-anchor: start" x="24.094488" y="286.459893" transform="rotate(-0 24.094488 286.459893)">c   STAGE 3  Incremental phenotype information</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 11px; font-family: 'Arial'; text-anchor: start" x="32.96126" y="319.212935" transform="rotate(-0 32.96126 319.212935)">15 shared → 10 phenotype-ready → 547 residues</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 11px; font-family: 'Arial'" transform="translate(32.96126 349.789898)">Median ΔR² = 0.0018</text>
+    <text style="font-size: 11px; font-family: 'Arial'" transform="translate(32.96126 361.762066)">95% CI includes zero</text>
+   </g>
+   <g id="text_24">
+    <text style="font-weight: 700; font-size: 17px; font-family: 'Arial'; text-anchor: start" x="316.697953" y="364.4892" transform="rotate(-0 316.697953 364.4892)">GLOBAL FAIL</text>
+   </g>
+  </g>
+  <g id="text_25">
+   <text style="font-size: 9px; font-family: 'Arial'; text-anchor: start" x="24.094488" y="419.598425" transform="rotate(-0 24.094488 419.598425)">Evaluation order, not causal flow. Failed gates remain frozen.</text>
+  </g>
+ </g>
+</svg>

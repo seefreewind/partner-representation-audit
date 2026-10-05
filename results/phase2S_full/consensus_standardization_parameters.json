@@ -1,0 +1,16 @@
+{
+  "sppider": {
+    "mean": 0.028205500804493504,
+    "population_SD": 0.08494408314919859,
+    "standardization_rows": 877919,
+    "membership": "common_primary shared valid pairs",
+    "disease_labels_used": false
+  },
+  "xpair": {
+    "mean": 0.30306145504311904,
+    "population_SD": 0.22089178798578812,
+    "standardization_rows": 877919,
+    "membership": "common_primary shared valid pairs",
+    "disease_labels_used": false
+  }
+}

@@ -1,0 +1,38 @@
+--- a/src/utils/prott5_loader.py (MutPred-PPI v1.0.0)
++++ b/src/utils/prott5_loader.py (offline path only)
+@@ -14,14 +14,22 @@
+ from transformers import T5EncoderModel, T5Tokenizer
+ import sys
+ 
++DEFAULT_MODEL_PATH = str(
++    Path(__file__).resolve().parents[5]
++    / "models"
++    / "prot_t5_xl_half_uniref50-enc"
++)
+ 
+-def get_T5_model(model_dir, device, transformer_link = "Rostlab/prot_t5_xl_half_uniref50-enc"):
++
++def get_T5_model(model_dir, device, transformer_link=DEFAULT_MODEL_PATH):
+     print("Loading: {}".format(transformer_link))
+     if model_dir is not None:
+         print("##########################")
+         print("Loading cached model from: {}".format(model_dir))
+         print("##########################")
+-    model = T5EncoderModel.from_pretrained(transformer_link, cache_dir=model_dir)
++    model = T5EncoderModel.from_pretrained(
++        transformer_link, cache_dir=model_dir, local_files_only=True
++    )
+     # only cast to full-precision if no GPU is available
+     if device==torch.device("cpu"):
+         print("Casting model to full precision for running on CPU ...")
+@@ -29,7 +37,9 @@
+ 
+     model = model.to(device)
+     model = model.eval()
+-    vocab = T5Tokenizer.from_pretrained(transformer_link, do_lower_case=False )
++    vocab = T5Tokenizer.from_pretrained(
++        transformer_link, do_lower_case=False, local_files_only=True
++    )
+     return model, vocab
+ 
+ 

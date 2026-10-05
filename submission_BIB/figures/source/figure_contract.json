@@ -1,0 +1,21 @@
+{
+  "scope": "Presentational only",
+  "main_figures": 5,
+  "supplementary_figures": 7,
+  "main_tables": 2,
+  "width_mm": 170,
+  "font": "Arial",
+  "minimum_font_pt": 8.5,
+  "formats": [
+    "PDF",
+    "SVG",
+    "PNG"
+  ],
+  "dpi": 600,
+  "source_map": "../../figure_source_map.tsv",
+  "constraints": [
+    "No new analysis",
+    "No changed frozen values, thresholds, cohorts or verdicts",
+    "Retain negative and null results"
+  ]
+}

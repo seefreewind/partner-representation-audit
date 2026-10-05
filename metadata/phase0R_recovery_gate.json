@@ -1,0 +1,11 @@
+{
+  "candidate_rcv_n": 114506,
+  "recovered_rcv_n": 114506,
+  "failed_rcv_n": 0,
+  "recovery_rate": 1.0,
+  "verdict": "CONTINUE",
+  "fallback_requested_n": 0,
+  "fallback_failure_n": 0,
+  "archive_release_dated": "2026-08-29",
+  "archive_md5_match": true
+}

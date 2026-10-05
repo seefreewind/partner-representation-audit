@@ -1,0 +1,37 @@
+{
+  "title": "Partner representation audit for allelic heterogeneity",
+  "upload_type": "software",
+  "description": "Frozen code, derived results, cohort specifications and source data for the staged audit of partner-aware protein representations. Original structural disruption verdict NO_GO_EDGETIC_REPRESENTATION; sequence arm PARTIAL_SEQUENCE_RESCUE; phenotype test NO_GLOBAL_PARTNER_IDENTITY_SUPPORT. No new analysis was performed during archival preparation.",
+  "creators": [
+    {
+      "name": "Xu, Sisi",
+      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
+    },
+    {
+      "name": "Zhang, Yu",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
+    },
+    {
+      "name": "Zeng, Tiantian",
+      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
+    },
+    {
+      "name": "Liu, Jiechen",
+      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
+    },
+    {
+      "name": "Qiu, Ling",
+      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China",
+      "orcid": "0009-0007-3662-5124"
+    }
+  ],
+  "keywords": [
+    "allelic heterogeneity",
+    "protein interactions",
+    "representation audit",
+    "reproducibility"
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "1.0.0"
+}

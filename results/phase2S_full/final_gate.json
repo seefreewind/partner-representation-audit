@@ -1,0 +1,14 @@
+{
+  "verdict": "PARTIAL_SEQUENCE_RESCUE",
+  "SPPIDER_RESCUE_STATUS": "PARTIAL_RESCUE",
+  "XPAIR_RESCUE_STATUS": "PARTIAL_RESCUE",
+  "original_verdict": "NO_GO_EDGETIC_REPRESENTATION",
+  "SPPIDER_balanced": 23,
+  "XPAIR_balanced": 15,
+  "completed_at": "2026-10-04T13:47:58.564702+08:00",
+  "full_phase2S_computations_completed": true,
+  "figure_visual_QA": "PASS",
+  "phase2P_started": false,
+  "delivery_audit": "PASS",
+  "review_completed_at": "2026-10-04T13:49:30.264410+08:00"
+}

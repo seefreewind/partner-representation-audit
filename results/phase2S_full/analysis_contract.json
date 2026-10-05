@@ -1,0 +1,53 @@
+{
+  "date": "2026-10-03T16:26:54.311011+08:00",
+  "source_authorization": "/Users/zy/.codex/attachments/0b506bf4-13d6-4bc0-a869-9578417a770c/\u5df2\u7c98\u8d34\u7684\u6587\u672c.txt",
+  "primary_membership_sha256": "390457e70b443cfc15d7cc89121e1d3f09f20aced7dcd86cb05300cc1db2acb0",
+  "consensus_standardization": "Each model standardized globally over common-primary scored variant-partner units shared by both methods; population SD ddof=0; undefined if constant. Disease labels excluded.",
+  "structural_validation": {
+    "label_source": "Frozen experimental biological-assembly contacts only; threshold <=5 Angstrom",
+    "prediction_threshold": 0.5,
+    "bootstrap_n": 1000,
+    "bootstrap_unit": "query protein",
+    "seed": 20261003,
+    "macro": "arithmetic mean of per-query metrics; one-class groups excluded from AUROC/AUPRC; explicit status",
+    "training_overlap": "Unknown for SPPIDER/XPAIR unless independently verified; validation is not held-out performance"
+  },
+  "partner_specificity": {
+    "meaningful_dispersion": "Across-partner population residue SD >=0.05",
+    "constant_track": "correlation NA",
+    "partners": "all successful frozen partners"
+  },
+  "shuffle": {
+    "max_genes": 20,
+    "selection": "first20 lexicographic genes with at least3 sequence-supported pairs per method; first3 lexicographic partners per gene",
+    "length_bins": [
+      0,
+      50,
+      200,
+      500,
+      1022,
+      2000,
+      3000,
+      100000
+    ],
+    "replacement": "lexicographic frozen accession in same bin, excluding query and all its credible partners; deterministic hash offset seed20261003",
+    "no_phenotype_used": true
+  },
+  "coverage": {
+    "GE3": 3,
+    "C4_threshold": 0.7,
+    "retained_groups_min": 2,
+    "retained_group_unambiguous_n_min": 10,
+    "severe_min": 0.5,
+    "severe_range": 0.5,
+    "material_range": 0.2,
+    "historical_legacy": "9/3 retained unchanged; disease group membership uses recovered legacy make_membership; gene denominator exactly common registry"
+  },
+  "runtime": {
+    "SPPIDER": "CPU",
+    "XPAIR_encoder": "CPU",
+    "XPAIR_head": "MPS auto per official CLI",
+    "serial_methods": true
+  },
+  "stop": "After Phase2S final verdict; no Phase2P"
+}

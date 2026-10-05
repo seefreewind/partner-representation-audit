@@ -1,0 +1,2 @@
+median_delta_R2	Q1	Q3	minimum	maximum	bootstrap_CI_low	bootstrap_CI_high	positive_gene_n	total_gene_n	positive_gene_fraction	zero_gene_n	sign_test_P	condition_A_pass	condition_B_pass	global_support_rule_pass	verdict
+0.0017955266024545433	0.00014122077824801319	0.004030778229587425	-0.022297678392564524	0.012493032038413001	-0.0041052628137248585	0.004957170498001228	8	10	0.8	0	0.0546875	False	True	False	NO_GLOBAL_PARTNER_IDENTITY_SUPPORT

@@ -1,0 +1,16 @@
+{
+  "status": "COMPLETE_STOP_FOR_MANUAL_REVIEW",
+  "verdict": "NO_GLOBAL_PARTNER_IDENTITY_SUPPORT",
+  "completed_at": "2026-10-04T14:42:13.669227+08:00",
+  "preregistration_SHA256": "d657fab6b24f9aa757f9773bb1e9e0bd5d850e743eab6bdf819f126326ced9c3",
+  "frozen_hash_checks": 346,
+  "statistical_integrity_PASS": true,
+  "restricted_permutation_integrity_PASS": true,
+  "figures": 6,
+  "tables": 6,
+  "visual_QA_PASS": true,
+  "original_verdict": "NO_GO_EDGETIC_REPRESENTATION",
+  "post_hoc_selection": false,
+  "downstream_started": false,
+  "report": "reports/PHASE2P1_PREREGISTERED_PHENOTYPE_INFORMATION_TEST.md"
+}

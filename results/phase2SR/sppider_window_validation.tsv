@@ -1,0 +1,3 @@
+gene	partner	query_length	context_length	MAX_TOKENS	STRIDE	no_internal_gaps	endpoint_alignment	cache_repeat_exact	status
+ACTA1	ABRA	377	381	1024	512	True	True	True	PASS
+ATRX	AP3B1	2492	1094	1024	512	True	True	True	PASS

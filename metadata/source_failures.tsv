@@ -1,0 +1,4 @@
+timestamp_utc	source	url	status
+2026-09-27T07:03:31.849056+00:00	ClinVar fixed RCV archive	https://ftp.ncbi.nlm.nih.gov/pub/clinvar/xml/RCV_release/ClinVarRCVRelease_2026-09.xml.gz	transfer stopped after measured throughput implied a multi-hour download; 6 MB partial retained and excluded
+2026-09-27T07:03:31.928746+00:00	HuRI	https://www.interactome-atlas.org/download	download request timed out; no HuRI interactions ingested
+2026-09-27T07:17:12.300063+00:00	ClinVar E-utilities broad candidate retrieval	https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi	Initial whole-candidate retrieval projected 224,996 RCV accessions (5,625 batches); interrupted after 13 batches for feasibility. Final exact RCV retrieval restricted to top five preliminary strict genes plus ACTB/ACTG1 pilots.

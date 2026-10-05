@@ -1,0 +1,3 @@
+# NO_PATCH_APPLIED: manuscript CLI already accepts --esm-model-name.
+# After verifying external files, supply the absolute local encoder directory
+# with HF_HUB_OFFLINE=1 and TRANSFORMERS_OFFLINE=1.

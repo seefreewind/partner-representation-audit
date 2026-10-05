@@ -1,0 +1,10 @@
+{
+  "archive": "data/raw/ClinVarRCVRelease_2026-09.xml.gz",
+  "checksum_sidecar": "data/raw/ClinVarRCVRelease_2026-09.xml.gz.md5",
+  "archive_bytes": 6018665816,
+  "archive_mtime_ns": 1790514378190000000,
+  "expected_md5": "0e63d1e8ebd44e486b5e923b6fad8bf0",
+  "observed_md5": "0e63d1e8ebd44e486b5e923b6fad8bf0",
+  "md5_match": true,
+  "gzip_test": "PASS"
+}

@@ -1,0 +1,338 @@
+gene	MONDO	MONDO_label	n_unique_variants	n_unique_residues	n_RCV	strict_disease_ge10	expanded_disease_ge5	parent_child_collapsed_terms_for_gene	raw_condition_names
+ABCA3	MONDO:0012580	hereditary pulmonary alveolar proteinosis	12	11	12	YES	YES		Hereditary pulmonary alveolar proteinosis
+ABCA3	MONDO:0012582	interstitial lung disease due to ABCA3 deficiency	33	31	33	YES	YES		Interstitial lung disease due to ABCA3 deficiency
+ABCA4	MONDO:0007932	age related macular degeneration 2	22	22	22	YES	YES		Age related macular degeneration 2
+ABCA4	MONDO:0019118	inherited retinal dystrophy	207	174	207	YES	YES		Retinal dystrophy
+ABCA4	MONDO:0019200	retinitis pigmentosa	56	53	56	YES	YES		Retinitis pigmentosa; RP
+ABCA4	MONDO:0800406	ABCA4-related retinopathy	55	45	55	YES	YES		ABCA4-related retinopathy
+ABCA4	MONDO:HP:0007754	Macular dystrophy	10	10	10	YES	YES		Macular dystrophy
+ABCB11	MONDO:0011156	progressive familial intrahepatic cholestasis type 2	46	35	47	YES	YES		Progressive familial intrahepatic cholestasis type 2
+ABCB11	MONDO:0015762	progressive familial intrahepatic cholestasis	12	12	12	YES	YES		Progressive familial intrahepatic cholestasis; PFIC
+ABCB11	MONDO:0017290	familial intrahepatic cholestasis	50	37	50	YES	YES		Familial intrahepatic cholestasis
+ABCB4	MONDO:0011214	progressive familial intrahepatic cholestasis type 3	11	11	11	YES	YES		Progressive familial intrahepatic cholestasis type 3
+ABCB4	MONDO:0017290	familial intrahepatic cholestasis	20	19	20	YES	YES		Familial intrahepatic cholestasis
+ABCC8	MONDO:0005148	type 2 diabetes mellitus	34	32	34	YES	YES		Type 2 diabetes mellitus
+ABCC8	MONDO:0016391	neonatal diabetes mellitus	11	11	12	YES	YES		Neonatal diabetes mellitus; NDM
+ABCC8	MONDO:0017182	familial hyperinsulinism	28	26	28	YES	YES		Familial hyperinsulinism
+ABCC8	MONDO:0030088	diabetes mellitus, permanent neonatal 3	10	10	10	YES	YES		Diabetes mellitus, permanent neonatal 3
+ACTA1	MONDO:0008070	congenital myopathy 2a, typical, autosomal dominant	119	89	121	YES	YES		Actin accumulation myopathy; CMYO2A
+ACTA1	MONDO:0100084	alpha-actinopathy	32	25	32	YES	YES		Alpha-actinopathy
+ACTA1	MONDO:0859523	congenital myopathy 2c, severe infantile, autosomal dominant	13	13	13	YES	YES		Congenital myopathy 2c, severe infantile, autosomal dominant; CMYO2C
+ACTA2	MONDO:0012730	aortic aneurysm, familial thoracic 6	23	14	25	YES	YES		Aortic aneurysm, familial thoracic 6; AAT6
+ACTA2	MONDO:0019625	familial thoracic aortic aneurysm and aortic dissection	13	8	13	YES	YES		Familial thoracic aortic aneurysm and aortic dissection; TAAD
+ADA	MONDO:0007064	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency	43	28	43	YES	YES		Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-negative, due to adenosine deaminase deficiency
+ADA	MONDO:0015974	severe combined immunodeficiency	14	10	14	YES	YES		Severe combined immunodeficiency disease
+AMT	MONDO:0011612	glycine encephalopathy	32	22	33	YES	YES		Glycine encephalopathy
+AMT	MONDO:0958179	glycine encephalopathy 1	12	10	12	YES	YES		Glycine encephalopathy 1; GCE1
+AMT	MONDO:0958192	glycine encephalopathy 2	12	10	12	YES	YES		Glycine encephalopathy 2; GCE2
+ASS1	MONDO:0008988	citrullinemia type I	55	38	56	YES	YES		Citrullinemia type I; CTNL1
+ASS1	MONDO:0015991	citrullinemia	57	43	58	YES	YES		Citrullinemia
+ATM	MONDO:0008840	ataxia telangiectasia	62	51	63	YES	YES		Ataxia-telangiectasia syndrome; AT
+ATM	MONDO:0015356	hereditary neoplastic syndrome	70	59	70	YES	YES		Hereditary cancer-predisposing syndrome
+ATM	MONDO:0016419	hereditary breast carcinoma	46	42	47	YES	YES		Familial cancer of breast
+ATM	MONDO:0700270	ATM-related cancer predisposition	29	28	29	YES	YES		ATM-related cancer predisposition
+ATP1A3	MONDO:0007496	dystonia 12	64	47	67	YES	YES		Dystonia 12; DYT12
+ATP1A3	MONDO:0011038	cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome	12	10	12	YES	YES		Cerebellar ataxia-areflexia-pes cavus-optic atrophy-sensorineural hearing loss syndrome; CAPOS
+ATP1A3	MONDO:0030473	developmental and epileptic encephalopathy 99	13	13	13	YES	YES		Developmental and epileptic encephalopathy 99
+ATRX	MONDO:0010519	alpha thalassemia-X-linked intellectual disability syndrome	29	26	29	YES	YES		Alpha thalassemia-X-linked intellectual disability syndrome; ATRX
+ATRX	MONDO:0010663	intellectual disability-hypotonic facies syndrome, X-linked, 1	11	10	11	YES	YES		Intellectual disability-hypotonic facies syndrome, X-linked, 1; MRXHF1
+BCKDHB	MONDO:0023691	maple syrup urine disease type 1A	22	17	22	YES	YES		Maple syrup urine disease type 1A; MSUD1A
+BCKDHB	MONDO:0023692	maple syrup urine disease type 1B	45	33	45	YES	YES		Maple syrup urine disease type 1B; MSUD1B
+BMPR2	MONDO:0001999	idiopathic pulmonary arterial hypertension	19	14	20	YES	YES		Primary pulmonary hypertension
+BMPR2	MONDO:0015924	pulmonary arterial hypertension	31	22	33	YES	YES		Idiopathic and/or familial pulmonary arterial hypertension;Pulmonary arterial hypertension
+BRAF	MONDO:0015280	cardiofaciocutaneous syndrome	28	21	31	YES	YES		Cardio-facio-cutaneous syndrome
+BRAF	MONDO:0021060	RASopathy	47	30	53	YES	YES		RASopathy
+BRCA1	MONDO:0003582	hereditary breast ovarian cancer syndrome	144	66	153	YES	YES		Hereditary breast ovarian cancer syndrome
+BRCA1	MONDO:0015356	hereditary neoplastic syndrome	152	81	158	YES	YES		Hereditary cancer-predisposing syndrome
+BRCA1	MONDO:0016419	hereditary breast carcinoma	15	11	15	YES	YES		Familial cancer of breast
+BRCA1	MONDO:0700268	BRCA1-related cancer predisposition	48	39	48	YES	YES		BRCA1-related cancer predisposition
+BRCA2	MONDO:0003582	hereditary breast ovarian cancer syndrome	82	50	86	YES	YES		Hereditary breast ovarian cancer syndrome
+BRCA2	MONDO:0015356	hereditary neoplastic syndrome	86	57	90	YES	YES		Hereditary cancer-predisposing syndrome
+BRCA2	MONDO:0016419	hereditary breast carcinoma	35	30	36	YES	YES		Familial cancer of breast
+BRCA2	MONDO:0700269	BRCA2-related cancer predisposition	50	40	50	YES	YES		BRCA2-related cancer predisposition
+CACNA1A	MONDO:0007163	episodic ataxia type 2	25	24	25	YES	YES		Episodic ataxia type 2; EA2;Episodic ataxia type 2; EA2; Gait ataxia; Epileptic encephalopathy
+CACNA1A	MONDO:0008457	spinocerebellar ataxia type 6	13	13	13	YES	YES		Spinocerebellar ataxia type 6; SCA6
+CACNA1A	MONDO:0014917	developmental and epileptic encephalopathy, 42	33	29	33	YES	YES		Developmental and epileptic encephalopathy, 42; DEE42
+CACNA1C	MONDO:0002442	long QT syndrome	12	11	14	YES	YES		Long QT syndrome; LQTS
+CACNA1C	MONDO:0010979	Timothy syndrome	13	11	16	YES	YES		Timothy syndrome; TS
+CACNA1C	MONDO:0859286	neurodevelopmental disorder with hypotonia, language delay, and skeletal defects with or without seizures	10	10	10	YES	YES		Neurodevelopmental disorder with hypotonia, language delay, and skeletal defects with or without seizures; NEDHLSS
+CAPN3	MONDO:0009675	autosomal recessive limb-girdle muscular dystrophy type 2A	93	77	96	YES	YES		Autosomal recessive limb-girdle muscular dystrophy type 2A; LGMDR1
+CAPN3	MONDO:0015152	autosomal recessive limb-girdle muscular dystrophy	63	52	63	YES	YES		Autosomal recessive limb-girdle muscular dystrophy
+CAPN3	MONDO:0029133	muscular dystrophy, limb-girdle, autosomal dominant 4	58	45	60	YES	YES		Muscular dystrophy, limb-girdle, autosomal dominant 4
+CASR	MONDO:0009397	neonatal severe primary hyperparathyroidism	10	9	10	YES	YES		Neonatal severe primary hyperparathyroidism
+CASR	MONDO:0011013	autosomal dominant hypocalcemia 1	24	22	24	YES	YES		Autosomal dominant hypocalcemia 1; HYPOC1
+CASR	MONDO:0018458	familial hypocalciuric hypercalcemia	32	27	33	YES	YES		Familial hypocalciuric hypercalcemia; FHH
+CBS	MONDO:0004737	homocystinuria	50	44	51	YES	YES		Homocystinuria
+CBS	MONDO:0009352	classic homocystinuria	97	61	148	YES	YES		Classic homocystinuria;HYPERHOMOCYSTEINEMIA, THROMBOTIC, CBS-RELATED
+CBS	MONDO:0019625	familial thoracic aortic aneurysm and aortic dissection	22	22	22	YES	YES		Familial thoracic aortic aneurysm and aortic dissection; TAAD
+CDH23	MONDO:0019501	Usher syndrome	17	16	17	YES	YES		Usher syndrome
+CDH23	MONDO:0054601	pituitary adenoma 5, multiple types	24	24	24	YES	YES		Pituitary adenoma 5, multiple types
+CDKN2A	MONDO:0007967	melanoma and neural system tumor syndrome	14	12	15	YES	YES		Melanoma and neural system tumor syndrome
+CDKN2A	MONDO:0015356	hereditary neoplastic syndrome	33	26	34	YES	YES		Hereditary cancer-predisposing syndrome
+CDKN2A	MONDO:0018961	familial melanoma	30	23	31	YES	YES		Familial melanoma
+CFTR	MONDO:0009061	cystic fibrosis	226	161	236	YES	YES		Cystic fibrosis; CF;Pseudomonas aeruginosa, susceptibility to chronic infection by, in cystic fibrosis
+CFTR	MONDO:7770004	CFTR-related disorder	157	121	161	YES	YES		CFTR-related disorder; CFTR-RD
+CNGA3	MONDO:0018852	achromatopsia	17	15	17	YES	YES		Achromatopsia
+CNGA3	MONDO:0019118	inherited retinal dystrophy	35	32	35	YES	YES		Retinal dystrophy
+COL1A1	MONDO:0007244	Caffey disease	10	10	10	YES	YES		Infantile cortical hyperostosis
+COL1A1	MONDO:0008147	osteogenesis imperfecta type 2	45	43	45	YES	YES		Osteogenesis imperfecta, perinatal lethal; OI2
+COL1A1	MONDO:0019019	osteogenesis imperfecta	40	39	40	YES	YES		Osteogenesis imperfecta; OI
+COL3A1	MONDO:0019625	familial thoracic aortic aneurysm and aortic dissection	118	97	118	YES	YES		Familial thoracic aortic aneurysm and aortic dissection; TAAD
+COL3A1	MONDO:0032688	polymicrogyria with or without vascular-type Ehlers-Danlos syndrome	11	11	11	YES	YES		Polymicrogyria with or without vascular-type Ehlers-Danlos syndrome
+COL4A1	MONDO:0012726	autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome	18	17	18	YES	YES		Autosomal dominant familial hematuria-retinal arteriolar tortuosity-contractures syndrome
+COL4A1	MONDO:0800461	COL4A1-related disorder	18	16	18	YES	YES		COL4A1-related disorder
+COL4A3	MONDO:0018965	Alport syndrome	161	133	161	YES	YES		Alport syndrome
+COL4A3	MONDO:0957811	Alport syndrome 3b, autosomal recessive	29	28	29	YES	YES		Alport syndrome 3b, autosomal recessive
+COL4A3	MONDO:0958186	hematuria, benign familial, 2	10	10	10	YES	YES		Hematuria, benign familial, 2; BFH2
+COL4A4	MONDO:0007709	hematuria, benign familial, 1	10	10	10	YES	YES		Hematuria, benign familial, 1; BFH1
+COL4A4	MONDO:0018965	Alport syndrome	128	106	128	YES	YES		Alport syndrome
+COL4A4	MONDO:0957317	hematuria, benign familial	10	10	10	YES	YES		Benign familial hematuria
+COL7A1	MONDO:0006543	epidermolysis bullosa dystrophica	106	93	108	YES	YES		Epidermolysis bullosa dystrophica
+COL7A1	MONDO:0007549	generalized dominant dystrophic epidermolysis bullosa	38	29	38	YES	YES		Generalized dominant dystrophic epidermolysis bullosa; DDEB
+COMP	MONDO:0007561	multiple epiphyseal dysplasia type 1	20	19	21	YES	YES		Multiple epiphyseal dysplasia type 1
+COMP	MONDO:0008322	pseudoachondroplasia	18	18	19	YES	YES		Pseudoachondroplastic spondyloepiphyseal dysplasia syndrome; PSACH
+CPS1	MONDO:0009376	carbamoyl phosphate synthetase I deficiency disease	50	41	50	YES	YES		Congenital hyperammonemia, type I
+CPS1	MONDO:0014151	pulmonary hypertension, neonatal, susceptibility to	18	17	18	YES	YES		Pulmonary hypertension, neonatal, susceptibility to; PHN
+CPT2	MONDO:0010914	carnitine palmitoyl transferase II deficiency, severe infantile form	12	11	12	YES	YES		Carnitine palmitoyl transferase II deficiency, severe infantile form
+CPT2	MONDO:0015515	carnitine palmitoyltransferase II deficiency	28	24	28	YES	YES		Carnitine palmitoyltransferase II deficiency
+CRB1	MONDO:0008246	pigmented paravenous retinochoroidal atrophy	27	26	27	YES	YES		Pigmented paravenous retinochoroidal atrophy
+CRB1	MONDO:0019118	inherited retinal dystrophy	55	47	55	YES	YES		Retinal dystrophy
+CYP11B1	MONDO:0008729	congenital adrenal hyperplasia due to 11-beta-hydroxylase deficiency	32	27	32	YES	YES		Deficiency of steroid 11-beta-monooxygenase; CYP11B1
+CYP11B1	MONDO:0018479	congenital adrenal hyperplasia	15	14	15	YES	YES		Congenital adrenal hyperplasia
+CYP17A1	MONDO:0008730	congenital adrenal hyperplasia due to 17-alpha-hydroxylase deficiency	43	30	43	YES	YES		Deficiency of steroid 17-alpha-monooxygenase
+CYP17A1	MONDO:0018479	congenital adrenal hyperplasia	14	11	14	YES	YES		Congenital adrenal hyperplasia
+CYP17A1	MONDO:0800379	17-alpha-hydroxylase/17,20-lyase deficiency, combined complete	11	10	11	YES	YES		17-alpha-hydroxylase/17,20-lyase deficiency, combined complete
+CYP1B1	MONDO:0015016	anterior segment dysgenesis 6	22	20	22	YES	YES		Anterior segment dysgenesis 6; ASGD6
+CYP1B1	MONDO:0020366	congenital glaucoma	25	20	25	YES	YES		Congenital glaucoma
+CYP1B1	MONDO:0800472	CYP1B1-related glaucoma with or without anterior segment dysgenesis	21	18	21	YES	YES		CYP1B1-related glaucoma with or without anterior segment dysgenesis
+CYP21A2	MONDO:0008728	classic congenital adrenal hyperplasia due to 21-hydroxylase deficiency	29	26	29	YES	YES		21-Hydroxylase-Deficient Congenital Adrenal Hyperplasia
+CYP21A2	MONDO:0018479	congenital adrenal hyperplasia	14	14	14	YES	YES		Congenital adrenal hyperplasia
+DYNC1H1	MONDO:0013644	Charcot-Marie-Tooth disease axonal type 2O	40	33	40	YES	YES		Charcot-Marie-Tooth disease axonal type 2O
+DYNC1H1	MONDO:0013805	intellectual disability, autosomal dominant 13	24	22	24	YES	YES		Intellectual disability, autosomal dominant 13; CDCBM13
+DYSF	MONDO:0009676	autosomal recessive limb-girdle muscular dystrophy type 2B	63	56	65	YES	YES		Autosomal recessive limb-girdle muscular dystrophy type 2B; LGMDR2
+DYSF	MONDO:0015152	autosomal recessive limb-girdle muscular dystrophy	77	68	80	YES	YES		Autosomal recessive limb-girdle muscular dystrophy
+DYSF	MONDO:0016145	neuromuscular disease caused by qualitative or quantitative defects of dysferlin	92	74	97	YES	YES		Neuromuscular disease caused by qualitative or quantitative defects of dysferlin
+EIF2B5	MONDO:0800448	leukoencephalopathy with vanishing white matter	30	23	30	YES	YES		Vanishing white matter disease
+EIF2B5	MONDO:0957873	leukoencephalopathy with vanishing white matter 5	23	21	23	YES	YES		Leukoencephalopathy with vanishing white matter 5; VWM5
+EYS	MONDO:0019118	inherited retinal dystrophy	15	15	15	YES	YES		Retinal dystrophy
+EYS	MONDO:0019200	retinitis pigmentosa	13	12	13	YES	YES		Retinitis pigmentosa; RP
+F8	MONDO:0010602	hemophilia A	279	224	290	YES	YES		Factor VIII deficiency;Hereditary factor VIII deficiency disease; HEMA
+F8	MONDO:0010604	hemophilia B	28	28	28	YES	YES		Hereditary factor IX deficiency disease; HEMB
+F8	MONDO:0859082	thrombophilia, X-linked, due to factor 8 defect	10	9	10	YES	YES		Thrombophilia, X-linked, due to factor 8 defect
+F9	MONDO:0010602	hemophilia A	12	12	12	YES	YES		Hereditary factor VIII deficiency disease; HEMA
+F9	MONDO:0010604	hemophilia B	116	86	119	YES	YES		Hereditary factor IX deficiency disease; HEMB
+FBN1	MONDO:0007055	Acromicric dysplasia	11	10	11	YES	YES		Acromicric dysplasia; ACMICD
+FBN1	MONDO:0007947	Marfan syndrome	604	406	612	YES	YES		Marfan syndrome; MFS
+FBN1	MONDO:0019625	familial thoracic aortic aneurysm and aortic dissection	305	238	308	YES	YES		Familial thoracic aortic aneurysm and aortic dissection; TAAD
+FGFR2	MONDO:0007043	Pfeiffer syndrome	22	16	25	YES	YES		CRANIOFACIAL-SKELETAL-DERMATOLOGIC DYSPLASIA;Pfeiffer syndrome; ACS5
+FGFR2	MONDO:0007405	Crouzon syndrome	30	23	31	YES	YES		Crouzon syndrome
+FGFR3	MONDO:0007793	hypochondroplasia	21	15	23	YES	YES		Hypochondroplasia; HCH
+FGFR3	MONDO:0019685	FGFR3-related chondrodysplasia	20	15	22	YES	YES		FGFR3-related chondrodysplasia
+FKRP	MONDO:0000171	muscular dystrophy-dystroglycanopathy, type A	51	34	53	YES	YES		Walker-Warburg congenital muscular dystrophy
+FKRP	MONDO:0011787	autosomal recessive limb-girdle muscular dystrophy type 2I	21	18	21	YES	YES		Autosomal recessive limb-girdle muscular dystrophy type 2I
+FKRP	MONDO:0015152	autosomal recessive limb-girdle muscular dystrophy	11	10	12	YES	YES		Autosomal recessive limb-girdle muscular dystrophy
+G6PD	MONDO:0005775	G6PD deficiency	25	23	25	YES	YES		G6PD deficiency
+G6PD	MONDO:0010480	anemia, nonspherocytic hemolytic, due to G6PD deficiency	98	75	99	YES	YES		Anemia, nonspherocytic hemolytic, due to G6PD deficiency; CNSHA1
+GAMT	MONDO:0000456	cerebral creatine deficiency syndrome	14	9	14	YES	YES		Cerebral creatine deficiency syndrome
+GAMT	MONDO:0012999	guanidinoacetate methyltransferase deficiency	36	32	36	YES	YES		Deficiency of guanidinoacetate methyltransferase; CCDS2
+GBA1	MONDO:0008199	late-onset Parkinson disease	12	11	12	YES	YES		Parkinson disease, late-onset; PD
+GBA1	MONDO:0009266	Gaucher disease type II	20	19	20	YES	YES		Gaucher disease type II; GD2
+GBA1	MONDO:0011945	Gaucher disease perinatal lethal	11	11	11	YES	YES		Gaucher disease perinatal lethal
+GBA1	MONDO:0018150	Gaucher disease	144	102	152	YES	YES		Gaucher disease
+GJB2	MONDO:0005365	hearing loss disorder	15	13	15	YES	YES		Hearing loss
+GJB2	MONDO:0019497	nonsyndromic genetic hearing loss	43	31	43	YES	YES		Nonsyndromic genetic hearing loss
+GJB2	MONDO:1060236	GJB2-related disorder	19	17	19	YES	YES		GJB2-related disorder
+GLDC	MONDO:0011612	glycine encephalopathy	125	88	126	YES	YES		Glycine encephalopathy
+GLDC	MONDO:0958179	glycine encephalopathy 1	40	36	41	YES	YES		Glycine encephalopathy 1; GCE1
+GNAO1	MONDO:0060491	neurodevelopmental disorder with involuntary movements	11	8	12	YES	YES		GNAO1-related developmental delay-seizures-movement disorder spectrum;Neurodevelopmental disorder with involuntary movements; NEDIM
+GNAO1	MONDO:0800491	early-infantile DEE	29	24	30	YES	YES		Early-infantile DEE
+GRIN2B	MONDO:0013509	intellectual disability, autosomal dominant 6	54	45	54	YES	YES		Intellectual disability, autosomal dominant 6; MRD6
+GRIN2B	MONDO:0100038	complex neurodevelopmental disorder	16	15	16	YES	YES		Complex neurodevelopmental disorder
+GUCY2D	MONDO:0019118	inherited retinal dystrophy	18	14	18	YES	YES		Retinal dystrophy
+GUCY2D	MONDO:0100453	GUCY2D-related recessive retinopathy	18	17	18	YES	YES		GUCY2D-related recessive retinopathy
+HBB	MONDO:0013517	beta-thalassemia HBB/LCRB	13	10	13	YES	YES		Beta-thalassemia HBB/LCRB
+HBB	MONDO:0019402	beta thalassemia	32	18	34	YES	YES		beta Thalassemia; BTHAL
+HBB	MONDO:0044348	hemoglobinopathy	16	16	16	YES	YES		Hemoglobinopathy
+HBB	MONDO:0054801	erythrocytosis, familial, 6	12	10	12	YES	YES		Erythrocytosis, familial, 6
+IDUA	MONDO:0001586	mucopolysaccharidosis type 1	92	59	94	YES	YES		Mucopolysaccharidosis type 1
+IDUA	MONDO:0011758	Hurler syndrome	34	31	34	YES	YES		Hurler syndrome
+IGHMBP2	MONDO:0011436	autosomal recessive distal spinal muscular atrophy 1	19	19	19	YES	YES		Autosomal recessive distal spinal muscular atrophy 1
+IGHMBP2	MONDO:0014511	Charcot-Marie-Tooth disease axonal type 2S	10	10	10	YES	YES		Charcot-Marie-Tooth disease axonal type 2S
+KCNH2	MONDO:0002442	long QT syndrome	91	66	93	YES	YES		Long QT syndrome; LQTS
+KCNH2	MONDO:0007263	cardiac rhythm disease	13	11	13	YES	YES		Cardiac arrhythmia
+KCNQ1	MONDO:0002442	long QT syndrome	163	93	168	YES	YES		Long QT syndrome; LQTS
+KCNQ1	MONDO:0007263	cardiac rhythm disease	52	40	52	YES	YES		Cardiac arrhythmia
+KCNQ2	MONDO:0013387	developmental and epileptic encephalopathy, 7	100	70	100	YES	YES		Developmental and epileptic encephalopathy, 7; DEE7
+KCNQ2	MONDO:0800491	early-infantile DEE	202	129	205	YES	YES		Early-infantile DEE
+LDLR	MONDO:0005439	familial hypercholesterolemia	414	215	428	YES	YES		Familial hypercholesterolemia
+LDLR	MONDO:0018328	homozygous familial hypercholesterolemia	52	45	52	YES	YES		Homozygous familial hypercholesterolemia
+LHCGR	MONDO:0008303	familial male-limited precocious puberty	12	10	12	YES	YES		Gonadotropin-independent familial sexual precocity
+LHCGR	MONDO:0009384	Leydig cell hypoplasia, type 1	10	10	10	YES	YES		Leydig cell agenesis
+LIPA	MONDO:0019148	Wolman disease	20	18	21	YES	YES		Wolman disease; WOLD
+LIPA	MONDO:0019149	cholesteryl ester storage disease	11	10	11	YES	YES		Cholesteryl ester storage disease; CESD
+LIPA	MONDO:0800449	lysosomal acid lipase deficiency	33	29	33	YES	YES		Lysosomal acid lipase deficiency
+LMNA	MONDO:0005021	dilated cardiomyopathy	21	16	21	YES	YES		Primary dilated cardiomyopathy; DCM
+LMNA	MONDO:0007269	dilated cardiomyopathy 1A	36	30	36	YES	YES		Dilated cardiomyopathy 1A; CMD1A
+LMNA	MONDO:0007906	familial partial lipodystrophy, Dunnigan type	10	10	10	YES	YES		Familial partial lipodystrophy, Dunnigan type
+LMNA	MONDO:0013178	congenital muscular dystrophy due to LMNA mutation	14	10	14	YES	YES		Congenital muscular dystrophy due to LMNA mutation
+LMNA	MONDO:0018993	Charcot-Marie-Tooth disease type 2	141	87	146	YES	YES		Charcot-Marie-Tooth disease type 2
+MECP2	MONDO:0010235	X-linked intellectual disability-psychosis-macroorchidism syndrome	12	11	12	YES	YES		X-linked intellectual disability-psychosis-macroorchidism syndrome; MRXS13
+MECP2	MONDO:0010397	severe neonatal-onset encephalopathy with microcephaly	49	29	50	YES	YES		Severe neonatal-onset encephalopathy with microcephaly
+MEN1	MONDO:0007540	multiple endocrine neoplasia type 1	109	67	113	YES	YES		Multiple endocrine neoplasia, type 1; MEN1
+MEN1	MONDO:0015356	hereditary neoplastic syndrome	80	55	83	YES	YES		Hereditary cancer-predisposing syndrome
+MFN2	MONDO:0012231	Charcot-Marie-Tooth disease type 2A2	47	39	47	YES	YES		Charcot-Marie-Tooth disease type 2A2
+MFN2	MONDO:0014906	Charcot-Marie-Tooth disease, axonal, autosomal recessive, type 2a2b;	11	10	11	YES	YES		Charcot-Marie-Tooth disease, axonal, autosomal recessive, type 2a2b;
+MFN2	MONDO:0018993	Charcot-Marie-Tooth disease type 2	93	60	97	YES	YES		Charcot-Marie-Tooth disease type 2
+MLH1	MONDO:0002032	colon carcinoma	13	12	13	YES	YES		Carcinoma of colon; CRC
+MLH1	MONDO:0005835	Lynch syndrome	75	59	77	YES	YES		Lynch syndrome
+MLH1	MONDO:0015356	hereditary neoplastic syndrome	131	78	136	YES	YES		Hereditary cancer-predisposing syndrome
+MLH1	MONDO:0018630	hereditary nonpolyposis colon cancer	21	18	21	YES	YES		Hereditary nonpolyposis colon cancer; HNPCC
+MMUT	MONDO:0002012	methylmalonic acidemia	41	38	41	YES	YES		Methylmalonic acidemia; MMA
+MMUT	MONDO:0009612	methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency	88	69	99	YES	YES		METHYLMALONIC ACIDURIA, mut(-) TYPE;METHYLMALONIC ACIDURIA, mut(0) TYPE;Methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency; MAMM
+MORC2	MONDO:0014736	Charcot-Marie-Tooth disease axonal type 2Z	17	13	18	YES	YES		Charcot-Marie-Tooth disease axonal type 2Z
+MORC2	MONDO:0030835	developmental delay, impaired growth, dysmorphic facies, and axonal neuropathy	15	12	15	YES	YES		Developmental delay, impaired growth, dysmorphic facies, and axonal neuropathy
+MPZ	MONDO:0007307	Charcot-Marie-Tooth disease type 1B	26	20	27	YES	YES		Charcot-Marie-Tooth disease type 1B
+MPZ	MONDO:0015626	Charcot-Marie-Tooth disease	10	10	10	YES	YES		Charcot-Marie-Tooth disease
+MPZ	MONDO:0019011	Charcot-Marie-Tooth disease type 1	73	47	76	YES	YES		Charcot-Marie-Tooth disease, type I; CMT1
+MSH2	MONDO:0005835	Lynch syndrome	45	38	45	YES	YES		Lynch syndrome
+MSH2	MONDO:0015356	hereditary neoplastic syndrome	118	73	124	YES	YES		Hereditary cancer-predisposing syndrome
+MSH2	MONDO:0018630	hereditary nonpolyposis colon cancer	17	16	17	YES	YES		Hereditary nonpolyposis colon cancer; HNPCC
+MSH6	MONDO:0005835	Lynch syndrome	23	22	23	YES	YES		Lynch syndrome
+MSH6	MONDO:0015356	hereditary neoplastic syndrome	46	35	48	YES	YES		Hereditary cancer-predisposing syndrome
+MSH6	MONDO:0018630	hereditary nonpolyposis colon cancer	11	10	11	YES	YES		Hereditary nonpolyposis colon cancer; HNPCC
+MVK	MONDO:0009849	hyperimmunoglobulinemia D with periodic fever	17	16	17	YES	YES		Hyperimmunoglobulin D with periodic fever; HIDS
+MVK	MONDO:0012481	mevalonic aciduria	14	14	14	YES	YES		Mevalonic aciduria; MEVA
+MYH7	MONDO:0004994	cardiomyopathy	78	66	80	YES	YES		Cardiomyopathy; CMYO
+MYH7	MONDO:0005021	dilated cardiomyopathy	21	19	21	YES	YES		Primary dilated cardiomyopathy; DCM
+MYH7	MONDO:0008050	MYH7-related skeletal myopathy	15	15	15	YES	YES		MYH7-related skeletal myopathy
+MYH7	MONDO:0008409	congenital myopathy 7A, myosin storage, autosomal dominant	14	14	14	YES	YES		Myosin storage myopathy; CMYO7A
+MYH7	MONDO:0008647	hypertrophic cardiomyopathy 1	125	100	128	YES	YES		Hypertrophic cardiomyopathy 1; CMH1
+MYO7A	MONDO:0019118	inherited retinal dystrophy	25	25	25	YES	YES		Retinal dystrophy
+MYO7A	MONDO:0019501	Usher syndrome	48	43	48	YES	YES		Usher syndrome
+MYO7A	MONDO:0700087	Usher syndrome type 1B	64	54	64	YES	YES		Usher syndrome type 1B; USH1B
+NF1	MONDO:0011908	juvenile myelomonocytic leukemia	13	13	13	YES	YES		Juvenile myelomonocytic leukemia; JMML
+NF1	MONDO:0015356	hereditary neoplastic syndrome	150	108	159	YES	YES		Hereditary cancer-predisposing syndrome;Hereditary cancer-predisposing syndrome; Cardiovascular phenotype
+NF1	MONDO:0018975	neurofibromatosis type 1	373	238	403	YES	YES		Neurofibromatosis, type 1; NF1;Neurofibromatosis, type 1; NF1; Tibial pseudarthrosis
+NOTCH3	MONDO:0000914	cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 1	93	75	93	YES	YES		Cerebral arteriopathy, autosomal dominant, with subcortical infarcts and leukoencephalopathy, type 1; CADASIL1
+NOTCH3	MONDO:0007432	cerebral arteriopathy with subcortical infarcts and leukoencephalopathy	10	9	10	YES	YES		Cerebral arteriopathy with subcortical infarcts and leukoencephalopathy
+NPHS1	MONDO:0005377	nephrotic syndrome	12	12	12	YES	YES		Nephrotic syndrome
+NPHS1	MONDO:0009732	congenital nephrotic syndrome, Finnish type	46	40	48	YES	YES		Finnish congenital nephrotic syndrome; NPHS1
+OCA2	MONDO:0008746	oculocutaneous albinism type 2	55	48	73	YES	YES		Tyrosinase-positive oculocutaneous albinism; OCA2;Tyrosinase-positive oculocutaneous albinism; OCA2; SKIN/HAIR/EYE PIGMENTATION 1, BLUE/NONBLUE EYES; SHEP1
+OCA2	MONDO:0018910	oculocutaneous albinism	22	20	24	YES	YES		Nonsyndromic Oculocutaneous Albinism;Oculocutaneous albinism
+PAH	MONDO:0009861	phenylketonuria	486	242	499	YES	YES		Mild non-PKU hyperphenylalanemia;Phenylketonuria; PKU
+PAH	MONDO:HP:0004923	Hyperphenylalaninemia	19	19	19	YES	YES		Hyperphenylalaninemia
+PKD1	MONDO:0004691	autosomal dominant polycystic kidney disease	13	13	13	YES	YES		Autosomal dominant polycystic kidney disease
+PKD1	MONDO:0008263	polycystic kidney disease 1	116	97	118	YES	YES		Polycystic kidney disease, adult type; PKD1
+PKHD1	MONDO:0009889	autosomal recessive polycystic kidney disease	134	108	137	YES	YES		Autosomal recessive polycystic kidney disease; ARPKD
+PKHD1	MONDO:0033004	polycystic kidney disease 4	80	74	81	YES	YES		Polycystic kidney disease 4; PKD4
+PLA2G6	MONDO:0018307	neurodegeneration with brain iron accumulation	14	12	14	YES	YES		Neurodegeneration with brain iron accumulation; NBIA
+PLA2G6	MONDO:0024457	neurodegeneration with brain iron accumulation 2A	38	32	40	YES	YES		Infantile neuroaxonal dystrophy; NBIA2A
+PLP1	MONDO:0010714	Pelizaeus-Merzbacher spectrum disorder	31	27	31	YES	YES		Pelizaeus-Merzbacher disease
+PLP1	MONDO:0010733	hereditary spastic paraplegia 2	18	15	18	YES	YES		Hereditary spastic paraplegia 2; SPG2
+PMP22	MONDO:0007309	Charcot-Marie-Tooth disease type 1A	11	9	11	YES	YES		Charcot-Marie-Tooth disease, type IA; CMT1A
+PMP22	MONDO:0019011	Charcot-Marie-Tooth disease type 1	26	16	27	YES	YES		Charcot-Marie-Tooth disease, type I; CMT1
+PMS2	MONDO:0005835	Lynch syndrome	11	8	11	YES	YES		Lynch syndrome
+PMS2	MONDO:0015356	hereditary neoplastic syndrome	30	20	32	YES	YES		Hereditary cancer-predisposing syndrome
+PMS2	MONDO:0018630	hereditary nonpolyposis colon cancer	11	8	11	YES	YES		Hereditary nonpolyposis colon cancer; HNPCC
+POLG	MONDO:0008758	mitochondrial DNA depletion syndrome 4a	92	67	96	YES	YES		Progressive sclerosing poliodystrophy; MTDPS4A
+POLG	MONDO:0011835	sensory ataxic neuropathy, dysarthria, and ophthalmoparesis	11	11	11	YES	YES		Sensory ataxic neuropathy, dysarthria, and ophthalmoparesis; SANDO
+POLG	MONDO:0018158	mitochondrial DNA depletion syndrome	19	18	19	YES	YES		Mitochondrial DNA depletion syndrome
+POLG	MONDO:0024528	progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 1	10	10	10	YES	YES		Progressive external ophthalmoplegia with mitochondrial DNA deletions, autosomal dominant 1; PEOA1
+PRPH2	MONDO:0018973	patterned dystrophy of the retinal pigment epithelium	13	12	13	YES	YES		Patterned dystrophy of the retinal pigment epithelium; MDPT1
+PRPH2	MONDO:0019118	inherited retinal dystrophy	52	32	52	YES	YES		Retinal dystrophy
+PRPH2	MONDO:0019200	retinitis pigmentosa	23	20	23	YES	YES		Retinitis pigmentosa; RP
+PTCH1	MONDO:0007187	nevoid basal cell carcinoma syndrome	30	23	32	YES	YES		Gorlin syndrome
+PTCH1	MONDO:0015356	hereditary neoplastic syndrome	19	16	20	YES	YES		Hereditary cancer-predisposing syndrome
+PTEN	MONDO:0008021	Cowden syndrome 1	66	43	71	YES	YES		Cowden syndrome 1; CWS1
+PTEN	MONDO:0011537	macrocephaly-autism syndrome	14	14	14	YES	YES		Macrocephaly-autism syndrome
+PTEN	MONDO:0015356	hereditary neoplastic syndrome	112	74	117	YES	YES		Hereditary cancer-predisposing syndrome
+PTEN	MONDO:0017623	PTEN hamartoma tumor syndrome	127	83	132	YES	YES		PTEN hamartoma tumor syndrome; PHTS
+PTPN11	MONDO:0007979	metachondromatosis	13	11	13	YES	YES		Metachondromatosis; METCDS
+PTPN11	MONDO:0018997	Noonan syndrome	47	32	50	YES	YES		Noonan syndrome; NS
+PTPN11	MONDO:0020297	Noonan syndrome and Noonan-related syndrome	28	19	28	YES	YES		Noonan syndrome and Noonan-related syndrome
+PTPN11	MONDO:0021060	RASopathy	79	41	86	YES	YES		RASopathy
+RAF1	MONDO:0018997	Noonan syndrome	18	11	19	YES	YES		Noonan syndrome; NS
+RAF1	MONDO:0021060	RASopathy	32	14	33	YES	YES		RASopathy
+RAG1	MONDO:0011086	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	20	19	22	YES	YES		Severe combined immunodeficiency, B cell-negative;Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive
+RAG1	MONDO:0011338	Omenn syndrome	13	10	13	YES	YES		Histiocytic medullary reticulosis
+RAG1	MONDO:0012359	combined immunodeficiency due to partial RAG1 deficiency	39	27	39	YES	YES		Combined immunodeficiency due to partial RAG1 deficiency
+RAG1	MONDO:0015974	severe combined immunodeficiency	25	20	25	YES	YES		Severe combined immunodeficiency disease
+RAG2	MONDO:0000573	recombinase activating gene 2 deficiency	16	15	16	YES	YES		Recombinase activating gene 2 deficiency
+RAG2	MONDO:0009306	combined immunodeficiency with skin granulomas	14	10	14	YES	YES		Combined immunodeficiency with skin granulomas
+RAG2	MONDO:0011086	severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive	11	8	12	YES	YES		Severe combined immunodeficiency, B cell-negative;Severe combined immunodeficiency, autosomal recessive, T cell-negative, B cell-negative, NK cell-positive
+RAG2	MONDO:0011338	Omenn syndrome	24	18	24	YES	YES		Histiocytic medullary reticulosis
+RAG2	MONDO:0015974	severe combined immunodeficiency	13	12	13	YES	YES		Severe combined immunodeficiency disease
+RDH12	MONDO:0012990	Leber congenital amaurosis 13	44	29	45	YES	YES		Leber congenital amaurosis 13; LCA13
+RDH12	MONDO:0019118	inherited retinal dystrophy	18	17	18	YES	YES		Retinal dystrophy
+RET	MONDO:0015356	hereditary neoplastic syndrome	44	17	53	YES	YES		Hereditary cancer-predisposing syndrome
+RET	MONDO:0019003	multiple endocrine neoplasia type 2	46	19	58	YES	YES		Multiple endocrine neoplasia, type 2; MEN2
+RHO	MONDO:0019118	inherited retinal dystrophy	58	42	58	YES	YES		Retinal dystrophy
+RHO	MONDO:0019200	retinitis pigmentosa	25	22	25	YES	YES		Retinitis pigmentosa; RP
+RPE65	MONDO:0019118	inherited retinal dystrophy	17	15	17	YES	YES		Retinal dystrophy
+RPE65	MONDO:0100368	RPE65-related recessive retinopathy	86	69	86	YES	YES		RPE65-related recessive retinopathy
+RPGR	MONDO:0016575	primary ciliary dyskinesia	25	15	26	YES	YES		Primary ciliary dyskinesia
+RPGR	MONDO:0100437	RPGR-related retinopathy	22	15	22	YES	YES		RPGR-related retinopathy
+RS1	MONDO:0010725	X-linked retinoschisis	65	37	67	YES	YES		Juvenile retinoschisis; RS1
+RS1	MONDO:0019118	inherited retinal dystrophy	51	40	51	YES	YES		Retinal dystrophy
+RYR1	MONDO:0007294	central core myopathy	44	41	44	YES	YES		Central core myopathy; CMYO1A
+RYR1	MONDO:0018493	malignant hyperthermia of anesthesia	26	26	28	YES	YES		Malignant hyperthermia of anesthesia
+RYR1	MONDO:0100150	RYR1-related myopathy	18	18	18	YES	YES		RYR1-related myopathy
+SCN1A	MONDO:0030268	developmental and epileptic encephalopathy 6B	24	24	24	YES	YES		Developmental and epileptic encephalopathy 6B
+SCN1A	MONDO:0100620	developmental and epileptic encephalopathy	22	22	22	YES	YES		Developmental and epileptic encephalopathy
+SCN1A	MONDO:0800491	early-infantile DEE	582	392	591	YES	YES		Early-infantile DEE
+SCN2A	MONDO:0100038	complex neurodevelopmental disorder	44	36	45	YES	YES		Complex neurodevelopmental disorder
+SCN2A	MONDO:0100620	developmental and epileptic encephalopathy	12	11	12	YES	YES		Developmental and epileptic encephalopathy
+SCN2A	MONDO:1060245	SCN2A-related disorder	27	27	27	YES	YES		SCN2A-related disorder
+SCN4A	MONDO:0008195	paramyotonia congenita of Von Eulenburg	22	19	22	YES	YES		Paramyotonia congenita of Von Eulenburg
+SCN4A	MONDO:0008224	hyperkalemic periodic paralysis	76	49	80	YES	YES		Hyperkalemic periodic paralysis;Normokalemic periodic paralysis, potassium-sensitive
+SCN8A	MONDO:0013680	cognitive impairment with or without cerebellar ataxia	15	14	15	YES	YES		Cognitive impairment with or without cerebellar ataxia; CIAT
+SCN8A	MONDO:0100038	complex neurodevelopmental disorder	10	8	10	YES	YES		Complex neurodevelopmental disorder
+SCN8A	MONDO:0800491	early-infantile DEE	102	80	105	YES	YES		Early-infantile DEE
+SDHB	MONDO:0011719	gastrointestinal stromal tumor	14	12	14	YES	YES		Gastrointestinal stromal tumor
+SDHB	MONDO:0015356	hereditary neoplastic syndrome	60	36	61	YES	YES		Hereditary cancer-predisposing syndrome
+SDHB	MONDO:0017366	hereditary pheochromocytoma-paraganglioma	29	21	29	YES	YES		Hereditary pheochromocytoma and paraganglioma
+SGCA	MONDO:0011968	autosomal recessive limb-girdle muscular dystrophy type 2D	56	43	56	YES	YES		Autosomal recessive limb-girdle muscular dystrophy type 2D; LGMDR3
+SGCA	MONDO:0015152	autosomal recessive limb-girdle muscular dystrophy	28	23	28	YES	YES		Autosomal recessive limb-girdle muscular dystrophy
+SLC2A1	MONDO:0011724	encephalopathy due to GLUT1 deficiency	40	31	40	YES	YES		Encephalopathy due to GLUT1 deficiency
+SLC2A1	MONDO:0012805	childhood onset GLUT1 deficiency syndrome 2	18	15	18	YES	YES		Childhood onset GLUT1 deficiency syndrome 2
+SMAD3	MONDO:0013426	aneurysm-osteoarthritis syndrome	18	14	19	YES	YES		Aneurysm-osteoarthritis syndrome
+SMAD3	MONDO:0019625	familial thoracic aortic aneurysm and aortic dissection	26	19	28	YES	YES		Familial thoracic aortic aneurysm and aortic dissection; TAAD
+SMARCA2	MONDO:0011053	intellectual disability-sparse hair-brachydactyly syndrome	46	36	50	YES	YES		Nicolaides-Baraitser syndrome; NCBRS;SMARCA2-related BAFopathy
+SMARCA2	MONDO:0859139	blepharophimosis-impaired intellectual development syndrome	12	10	12	YES	YES		Blepharophimosis-impaired intellectual development syndrome
+SMPD1	MONDO:0001982	Niemann-Pick disease	47	42	47	YES	YES		Sphingomyelin/cholesterol lipidosis
+SMPD1	MONDO:0009756	Niemann-Pick disease type A	76	63	78	YES	YES		Niemann-Pick disease, type A
+SMPD1	MONDO:0011871	Niemann-Pick disease type B	24	24	24	YES	YES		Niemann-Pick disease, type B
+SOS1	MONDO:0018997	Noonan syndrome	22	18	24	YES	YES		Noonan syndrome; NS
+SOS1	MONDO:0020297	Noonan syndrome and Noonan-related syndrome	14	11	15	YES	YES		Noonan syndrome and Noonan-related syndrome
+SOS1	MONDO:0021060	RASopathy	35	23	40	YES	YES		RASopathy
+SPAST	MONDO:0008438	hereditary spastic paraplegia 4	110	76	114	YES	YES		Hereditary spastic paraplegia 4
+SPAST	MONDO:0019064	hereditary spastic paraplegia	16	14	16	YES	YES		Hereditary spastic paraplegia
+STAT3	MONDO:0007818	hyper-IgE recurrent infection syndrome 1, autosomal dominant	58	39	70	YES	YES		Hyper-IgE recurrent infection syndrome 1, autosomal dominant;Hyper-IgE recurrent infection syndrome 1, autosomal dominant; STAT3 gain of function
+STAT3	MONDO:0014414	STAT3-related early-onset multisystem autoimmune disease	14	14	15	YES	YES		STAT3-related early-onset multisystem autoimmune disease
+STK11	MONDO:0008280	Peutz-Jeghers syndrome	22	18	24	YES	YES		Peutz-Jeghers syndrome; PJS
+STK11	MONDO:0015356	hereditary neoplastic syndrome	20	15	20	YES	YES		Hereditary cancer-predisposing syndrome
+STXBP1	MONDO:0020071	infantile epilepsy syndrome	14	12	14	YES	YES		Infantile epilepsy syndrome
+STXBP1	MONDO:0800491	early-infantile DEE	47	36	47	YES	YES		Early-infantile DEE
+TGM1	MONDO:0009441	autosomal recessive congenital ichthyosis 1	64	44	64	YES	YES		Autosomal recessive congenital ichthyosis 1; LI1
+TGM1	MONDO:0017778	lamellar ichthyosis	26	22	26	YES	YES		Lamellar ichthyosis
+TNNI3	MONDO:0004994	cardiomyopathy	15	11	15	YES	YES		Cardiomyopathy; CMYO
+TNNI3	MONDO:0013369	hypertrophic cardiomyopathy 7	21	18	21	YES	YES		Hypertrophic cardiomyopathy 7
+TNNT2	MONDO:0005021	dilated cardiomyopathy	12	9	13	YES	YES		Primary dilated cardiomyopathy; DCM
+TNNT2	MONDO:0007266	hypertrophic cardiomyopathy 2	22	14	22	YES	YES		Hypertrophic cardiomyopathy 2
+TNNT2	MONDO:0012900	cardiomyopathy, familial restrictive, 3	19	12	19	YES	YES		Cardiomyopathy, familial restrictive, 3
+TP53	MONDO:0015356	hereditary neoplastic syndrome	70	52	71	YES	YES		Hereditary cancer-predisposing syndrome
+TP53	MONDO:0018875	Li-Fraumeni syndrome	81	60	127	YES	YES		Li-Fraumeni syndrome 1; LFS;Li-Fraumeni syndrome; LFS
+TRPV4	MONDO:0007986	metatropic dysplasia	15	12	15	YES	YES		Metatropic dysplasia; MTD
+TRPV4	MONDO:0011633	Charcot-Marie-Tooth disease axonal type 2C	31	20	32	YES	YES		Charcot-Marie-Tooth disease axonal type 2C; HMSN2C
+TUBA1A	MONDO:0012703	lissencephaly due to TUBA1A mutation	54	43	54	YES	YES		Lissencephaly due to TUBA1A mutation; CDCBM16
+TUBA1A	MONDO:0100153	tubulinopathy	69	53	69	YES	YES		Tubulinopathy
+TUBB3	MONDO:0010912	fibrosis of extraocular muscles, congenital, 3A, with or without extraocular involvement	10	8	10	YES	YES		Fibrosis of extraocular muscles, congenital, 3A, with or without extraocular involvement
+TUBB3	MONDO:0013541	complex cortical dysplasia with other brain malformations 1	19	18	19	YES	YES		Complex cortical dysplasia with other brain malformations 1
+USH2A	MONDO:0019118	inherited retinal dystrophy	82	78	82	YES	YES		Retinal dystrophy
+USH2A	MONDO:0019200	retinitis pigmentosa	47	44	47	YES	YES		Retinitis pigmentosa; RP
+USH2A	MONDO:0019501	Usher syndrome	84	77	84	YES	YES		Usher syndrome
+VHL	MONDO:0008667	von Hippel-Lindau disease	100	53	105	YES	YES		Von Hippel-Lindau syndrome; VHLS
+VHL	MONDO:0015356	hereditary neoplastic syndrome	95	54	99	YES	YES		Hereditary cancer-predisposing syndrome
+VWF	MONDO:0010191	von Willebrand disease 3	16	15	16	YES	YES		von Willebrand disease type 3; VWD3
+VWF	MONDO:0019565	hereditary von Willebrand disease	45	36	45	YES	YES		Hereditary von Willebrand disease
+VWF	MONDO:0024574	von Willebrand disease (hereditary or acquired)	22	20	22	YES	YES		von Willebrand disorder; VWD

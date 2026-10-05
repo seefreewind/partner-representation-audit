@@ -1,0 +1,5 @@
+{
+  "reason": "Mathematically identical rank vectors have exact zero distance. Floating point corrcoef introduced spurious tiny distances and a NaN delta was erroneously counted as an extreme tail. Exact identical rank pairs now have D=0, and preregistered zero-total-distance rule makes such controls unevaluable. No primary statistic, cohort, scaling, permutation or endpoint changed.",
+  "original_outputs_preserved": "diagnostic_archive",
+  "new_analysis_choice": false
+}

@@ -1,0 +1,22 @@
+{
+  "verdict": "GO_PHASE2P1_FOCUSED",
+  "analysis_specification_SHA256": "d657fab6b24f9aa757f9773bb1e9e0bd5d850e743eab6bdf819f126326ced9c3",
+  "ready_genes": [
+    "COL3A1",
+    "COL4A1",
+    "COL4A3",
+    "GUCY2D",
+    "KCNQ2",
+    "LHCGR",
+    "MEN1",
+    "MMUT",
+    "RS1",
+    "TUBA1A"
+  ],
+  "required_deliverables_PASS": 20,
+  "original_frozen_files_PASS": 124,
+  "no_association_statistic_calculated": true,
+  "phase2P1_started": false,
+  "original_verdict": "NO_GO_EDGETIC_REPRESENTATION",
+  "completed_at": "2026-10-04T14:12:31.605472+08:00"
+}

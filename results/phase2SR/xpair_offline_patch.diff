@@ -1,0 +1,22 @@
+--- xpair-0.1.0/embedding_menager.py
++++ installed-offline/embedding_menager.py
+@@ -39,7 +39,7 @@
+     from transformers import T5EncoderModel, AutoTokenizer
+ 
+     if model_name == "ankh_large":
+-        ankh_model_name = "ElnaggarLab/ankh-large"
++        ankh_model_name = os.environ["XPAIR_ANKH_LOCAL_DIR"]
+     elif model_name == "ankh_base":
+         ankh_model_name = "ElnaggarLab/ankh-base"
+     else:
+@@ -47,8 +47,8 @@
+ 
+     logger.info(f"Loading Ankh model: {ankh_model_name}")
+     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+-    plm_model = T5EncoderModel.from_pretrained(ankh_model_name).to(device).eval()
+-    tokenizer = AutoTokenizer.from_pretrained(ankh_model_name)
++    plm_model = T5EncoderModel.from_pretrained(ankh_model_name, local_files_only=True).to(device).eval()
++    tokenizer = AutoTokenizer.from_pretrained(ankh_model_name, local_files_only=True)
+ 
+     with torch.inference_mode():  # moderno equivalente di no_grad()
+             for seq_id, seq in tqdm(seq_list, desc="Generating Ankh embeddings", miniters=50):

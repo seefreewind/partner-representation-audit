@@ -1,0 +1,50 @@
+{
+  "1": [
+    "Three-stage audit framework",
+    "Candidate genes proceed through technical scoreability, phenotype-balanced representation and incremental phenotype information. Operational Gates 1\u20135 are nested within these stages. Historical structural attrition is 137\u2192132\u219242\u21929\u21923 genes; the partner-qualified intermediate subset contained 128 genes. Technical recovery scored 10,917/11,150 submitted rows (97.91%). Sequence rescue retains 23 balanced SPPIDER-seq and 15 balanced X-PAIR genes on U2=132. The shared unique-residue test contains ten genes/547 residues and fails the frozen global support rule. Arrows denote evaluation order, not causation or a requirement to reinterpret a failed arm positively. Counts are deterministic; all three frozen decisions are preserved. Sources: historical disruption report, common-denominator comparison and frozen phenotype reporting summary."
+  ],
+  "2": [
+    "Coverage rescue across five representation methods",
+    "Gene counts reaching \u226570% represented variants (gray) and passing frozen disease balance eligibility (blue), among all 132 U2 genes. Representation requires \u22653 distinct credible valid partner features per variant. The five arms retain their distinct score meanings. Balanced counts are 3, 10, 3, 23 and 15 in the displayed order. Counts are deterministic and use no bootstrap. These results measure representation availability, not phenotype prediction. Source: frozen method comparison."
+  ],
+  "3": [
+    "Internal structural validity, partner variation and input limits",
+    "a, Macro AUROC and AUPRC with existing 95% percentile intervals from 1,000 query-protein bootstrap resamples. SPPIDER has 80 proteins/63,687 residue\u2013pair units; X-PAIR has 67/51,928. Only observed experimental contacts\u22645 \u00c5 are labels. Different evaluable sets and unknown training overlap prevent a held-out superiority claim. b, Approximate median within-gene pairwise partner-track Spearman summaries, 0.926 and 0.745. No interval was prespecified for these descriptive summaries. c, Scored pairs from the fixed 15,942-pair plan. X-PAIR has 2,377 length failures because both proteins must contain 50\u20132,000 residues. SPPIDER uses overlapping windows for full sequences. Counts have no inferential interval. Sources: Tables S7\u2013S8, partner specificity and failure tables."
+  ],
+  "4": [
+    "Preregistered residue-level phenotype cohort",
+    "a, Fifteen shared balanced genes contain 1,034 unique residues in exclusive classes: 680 single disease, 39 cross disease and 315 multilabel/ambiguous. Ten genes pass the unique-residue gate, yielding 547 primary observations and median 17 common partners. b, Every primary gene\u2019s group sample sizes; group 1/2 use lexicographic frozen MONDO order, not a common disease across genes. c, Percentage of all phenotype-annotated residues linked to \u22652 retained groups. These broader registry denominators include excluded discordant and multilabel records and differ from panel b. No substitutions are counted as independent replicates. Deterministic counts/rates have no inferred intervals. Sources: cohort summary, primary result and residue context tables."
+  ],
+  "5": [
+    "Primary phenotype-information result",
+    "a, All ten frozen gene-level X-PAIR \u0394R\u00b2 values, with zero as reference. b, Paired labeled and sorted R\u00b2 values on identical residue rows; connecting segments show within-gene comparisons. Raw sorting removes assignment to named partners and rank dimensions are separately standardized. No per-gene confidence interval was preregistered. c, Equal-weight median \u0394R\u00b2=0.00179553 with existing 95% interval [\u22120.00410526, 0.00495717] from 10,000 gene bootstrap resamples, seed 20261005. Condition A requires a positive median and interval strictly above zero. Condition B requires \u226570% positive genes. A fails, B passes and the AND rule fails. The exact one-sided sign-test P is 0.0546875. Paired gene tests use 10,000 alternatives and separate BH families. Sources: primary per-gene results and reporting summary."
+  ],
+  "6": [
+    "Robustness and representational limits",
+    "a, All ten primary genes\u2019 matched X-PAIR and SPPIDER \u0394R\u00b2 values. Zero reference lines are shown; named RS1 and COL3A1 annotations identify the discussed discordant cases without omitting other genes. Spearman=\u22120.745455 and Pearson=\u22120.582 are frozen descriptive concordance summaries. b, Existing medians of row-matched X-PAIR-minus-baseline R\u00b2 contrasts. Different baseline complete-case gene sets (n=10, 5, 4 and 2 as labeled) prevent an overall ranking. These are descriptive contrasts without inferred confidence intervals. c, Cross-disease-linked proportions for all ten genes use the broader annotated registry, including excluded multilabel and discordant records. These differ from the primary safe single-label denominator. A WT residue-context representation ties substitutions at one residue. This logical limitation was not tested as the explanation of the global result. Sources: cross-method concordance, baseline summary and frozen registry definition."
+  ],
+  "S1": [
+    "Paired permutation-null example",
+    "Unchanged alphabetical-first COL3A1 display from the completed test. Histogram includes all 10,000 unique group-size-preserving alternative assignments, excluding observed labels. Solid blue marks observed \u0394R\u00b2 and dashed gray zero. One-sided plus-one P counts null effects at least as large as observed. No gene was selected for significance. Source: saved COL3A1 paired permutation arrays."
+  ],
+  "S2": [
+    "Restricted permutation sensitivity",
+    "All ten genes\u2019 unrestricted and restricted paired-contrast P values. Segments connect the same frozen gene. The dashed line is nominal P=0.05, not a new FDR gate. GUCY2D and LHCGR use all 1,763 and 3,149 alternatives; other genes use 10,000. Restricted strata were fixed before association. Status is concordant 10/10 and no primary decision changes. No inferential interval is attached to permutation P. Source: restricted result table."
+  ],
+  "S3": [
+    "Sequence length audit",
+    "a, X-PAIR length-supported partner counts against query length. b, SPPIDER scored partner counts with windowed full-sequence inference. Every gene with a known query length is shown; genes without canonical sequence length are unavailable, not zero-length proteins. The dashed 2,000-aa boundary marks X-PAIR\u2019s upper contract limit, which also applies to partners. Counts are descriptive with no uncertainty. Sources: length constraint and long-sequence audits."
+  ],
+  "S4": [
+    "Per-gene common-denominator coverage",
+    "All 132 genes in alphabetical order, split into two panels for legibility. Columns show MutPred-PPI, structural binary, structural distance, SPPIDER and X-PAIR C4 fractions. C4 is the proportion of frozen common-primary variants with \u22653 valid credible partners. Color scale is fixed 0\u20131; white denotes unavailable values, not zero coverage. Every gene and all five methods are retained. Values are frozen coverage fractions without inferential intervals. Source: gene-level coverage table."
+  ],
+  "S5": [
+    "Deterministic partner replacement controls",
+    "a, True versus replacement-partner track Spearman for all 60 controls per sequence model. b, Existing mean absolute track differences for the same controls. SPPIDER is ochre and X-PAIR blue. Controls use 20 deterministic eligible genes and three partners each. The numerical index is plotting order and is not a new biological ranking. Replacement selection was phenotype-blind. No association test or uncertainty interval is added. Source: frozen shuffled-partner control table."
+  ],
+  "S6": [
+    "Computational resource accounting",
+    "Recorded CPU hours, peak RAM and embedding cache size for the two sequence arms. Decimal GB uses 10\u2079 bytes. Values retain original measurement scopes: SPPIDER includes encoder/cache IO; X-PAIR batch-wall and measured-forward timings are separately recorded in Table S9. Busy GPU hours/peak VRAM are unavailable when not profiled. Bars are single recorded accounting values without inferential intervals, and do not establish an equal-hardware speed ranking. Source: computational resource table."
+  ]
+}

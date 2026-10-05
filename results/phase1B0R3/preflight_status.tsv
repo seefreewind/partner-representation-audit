@@ -1,0 +1,9 @@
+check	expected	observed	status
+official_model_dir_models	models/prot_t5_xl_half_uniref50-enc/ present	models/prot_t5_xl_half_uniref50-enc/ present	PASS
+official_model_dir_external_models	external_models/prot_t5_xl_half_uniref50-enc/ present	optional location not selected; canonical models/ path is present	OPTIONAL_ABSENT
+frozen_variant_partner_rows	11150	11150	PASS
+unique_variant_keys	5357	5357	PASS
+frozen_input_hashes	12/12 PASS	12/12 PASS	PASS
+prot_t5_weight_sha256	7f51ba885541c7dc569d46b796af57cc7a2ba7945107dced4f19d1b5ec091157	7f51ba885541c7dc569d46b796af57cc7a2ba7945107dced4f19d1b5ec091157	PASS
+local_model_load	T5EncoderModel and T5Tokenizer load from local path; residue embedding dimension=1024 and all finite	PASS; local-only loader; sample embedding shape=(723,1024); no NaN/Inf	PASS
+official_example_validation	three documented scores within absolute error <=1e-4	3/3 PASS; max absolute error=3.8509464263e-06	PASS

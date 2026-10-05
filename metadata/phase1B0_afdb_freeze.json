@@ -1,0 +1,420 @@
+{
+  "phase": "PHASE1B0",
+  "source": "AlphaFold Protein Structure Database",
+  "accessions_requested": [
+    "O00255",
+    "O43526",
+    "P02461",
+    "P02545",
+    "P04049",
+    "P04637",
+    "P07949",
+    "P09471",
+    "P12883",
+    "P13569",
+    "P15056",
+    "P19429",
+    "P21359",
+    "P21802",
+    "P21912",
+    "P22607",
+    "P38398",
+    "P40337",
+    "P40692",
+    "P40763",
+    "P45379",
+    "P46100",
+    "P51587",
+    "P51787",
+    "P60484",
+    "P61764",
+    "P68133",
+    "P68871",
+    "P84022",
+    "Q01453",
+    "Q06124",
+    "Q07889",
+    "Q13144",
+    "Q13224",
+    "Q13509",
+    "Q13873",
+    "Q13936",
+    "Q14204",
+    "Q15831",
+    "Q71U36",
+    "Q99250",
+    "Q9UM47"
+  ],
+  "model_results": [
+    {
+      "accession": "O00255",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-O00255-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-O00255-F1-model_v6.cif",
+      "bytes": 556844,
+      "sha256": "a69b8b03bd5bc5d7f7f88a0e9cd0759eb02ce89054c3f26b77e3dc195dfc222a"
+    },
+    {
+      "accession": "O43526",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-O43526-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-O43526-F1-model_v6.cif",
+      "bytes": 777869,
+      "sha256": "e3152a466f448446901a5e2b88a69f0482ad104cf4dbf1a971d8854e050962e1"
+    },
+    {
+      "accession": "P02461",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P02461-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P02461-F1-model_v6.cif",
+      "bytes": 1171970,
+      "sha256": "91c11444e2e8b38a18cf34ca7e18992c39e875f259f78c9e39b287140946411d"
+    },
+    {
+      "accession": "P02545",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P02545-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P02545-F1-model_v6.cif",
+      "bytes": 606430,
+      "sha256": "20d72512ba19467b2c123bd10291175f3ca7dc008fabdd3dfeaa3cbfa2fe45e9"
+    },
+    {
+      "accession": "P04049",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P04049-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P04049-F1-model_v6.cif",
+      "bytes": 598597,
+      "sha256": "264ce7ab214dade80cb13eb62b997d649b6e2c15c63638ce037757b7b1f6d13a"
+    },
+    {
+      "accession": "P04637",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P04637-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P04637-F1-model_v6.cif",
+      "bytes": 363485,
+      "sha256": "4332bff49301d04434b6e3b43c439aa5bd8238760e88c7142f7d0c0851a68e5d"
+    },
+    {
+      "accession": "P07949",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P07949-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P07949-F1-model_v6.cif",
+      "bytes": 1045223,
+      "sha256": "c82ef19bcdd20f1703f239b3489b5b2751ba2c9b569559290a935fc7e3627662"
+    },
+    {
+      "accession": "P09471",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P09471-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P09471-F1-model_v6.cif",
+      "bytes": 334575,
+      "sha256": "d8207a9888fd891f8132096c158455af59ed447e950f2b63832c03568e2dd47b"
+    },
+    {
+      "accession": "P12883",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P12883-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P12883-F1-model_v6.cif",
+      "bytes": 1855610,
+      "sha256": "283d142026250dbeb6ba6620bac333b98e02f0464bd2b1189dde6b7135a6b18e"
+    },
+    {
+      "accession": "P13569",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P13569-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P13569-F1-model_v6.cif",
+      "bytes": 1415399,
+      "sha256": "12525bdff67442baa038db09fe07d236f91c1f2e0e794f44eb33fe773b4b6590"
+    },
+    {
+      "accession": "P15056",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P15056-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P15056-F1-model_v6.cif",
+      "bytes": 689736,
+      "sha256": "6fb4416ea651ffe4cf093c28695f4f9ae231bf2121cbc0b72a26132e98d87d42"
+    },
+    {
+      "accession": "P19429",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P19429-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P19429-F1-model_v6.cif",
+      "bytes": 204964,
+      "sha256": "c5786b44af22ca21bda217d311f834805f420e1edf04a4936dcf06c6ad944e6a"
+    },
+    {
+      "accession": "P21359",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P21359-5-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P21359-F1-model_v6.cif",
+      "bytes": 561778,
+      "sha256": "4dddefde4c1cb357156b9c784b6996c1c5e8535e44e20b3b191a00f02b08b1b1"
+    },
+    {
+      "accession": "P21802",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P21802-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P21802-F1-model_v6.cif",
+      "bytes": 749961,
+      "sha256": "aac8e34cddcff68a8137f1fe8bf1745c95fd4fc9a69f7da9d5ed4c52f7bc3d1e"
+    },
+    {
+      "accession": "P21912",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P21912-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P21912-F1-model_v6.cif",
+      "bytes": 266457,
+      "sha256": "def8c3106cc3ce789456e086ab20d61c00a0b229bc08a3b4145d926936d262d3"
+    },
+    {
+      "accession": "P22607",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P22607-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P22607-F1-model_v6.cif",
+      "bytes": 719724,
+      "sha256": "892e34e29d2151f723b4b9dc5f76f9b1b8807457d255e16f455e40ede9480ff4"
+    },
+    {
+      "accession": "P38398",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P38398-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P38398-F1-model_v6.cif",
+      "bytes": 1725228,
+      "sha256": "119c411fb688fa36051126df1bd7b9dd228f4cc0c2653fb9791352618007d2eb"
+    },
+    {
+      "accession": "P40337",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P40337-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P40337-F1-model_v6.cif",
+      "bytes": 208223,
+      "sha256": "23bf3a3a9b42a31f2f1a914b9ab7bfd25c8f7e19c7f98dc583387761d849f06a"
+    },
+    {
+      "accession": "P40692",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P40692-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P40692-F1-model_v6.cif",
+      "bytes": 691988,
+      "sha256": "ce7cd443da36967520b8611c309f7b574e86b063b7ea119b60827b665477c5df"
+    },
+    {
+      "accession": "P40763",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P40763-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P40763-F1-model_v6.cif",
+      "bytes": 717076,
+      "sha256": "6c0a6cdf847df029df8f26a38834be42f9d10659a6462593c48bcc7fb6cedfea"
+    },
+    {
+      "accession": "P45379",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P45379-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P45379-F1-model_v6.cif",
+      "bytes": 297097,
+      "sha256": "b6819ed81569189d991d72241c1cf6032119c4f172ae09a3ac0814577467f32c"
+    },
+    {
+      "accession": "P46100",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P46100-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P46100-F1-model_v6.cif",
+      "bytes": 2343526,
+      "sha256": "1d69218c8de967d59ef256fe24b956397cf7fdbb4bdf63dc532f553251be50ec"
+    },
+    {
+      "accession": "P51587",
+      "status": "FETCH_FAILED",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://alphafold.ebi.ac.uk/api/prediction/P51587"
+    },
+    {
+      "accession": "P51787",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P51787-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P51787-F1-model_v6.cif",
+      "bytes": 612459,
+      "sha256": "80ab3e1e5dfdb6f34209d873d8a02b4202a43177ee7e1673e4f1fcbf2c20d5ab"
+    },
+    {
+      "accession": "P60484",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P60484-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P60484-F1-model_v6.cif",
+      "bytes": 392672,
+      "sha256": "10b3f401588d1985d52a32fa9e8ffe6e01d2c9362f9b67c5a43de2677f20b6f9"
+    },
+    {
+      "accession": "P61764",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P61764-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P61764-F1-model_v6.cif",
+      "bytes": 555471,
+      "sha256": "bfff4b2b6b89694a6ae343ae5e5e9f458471b661499fc37fbaa9f33b60e55939"
+    },
+    {
+      "accession": "P68133",
+      "status": "DOWNLOADED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P68133-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P68133-F1-model_v6.cif",
+      "bytes": 351886,
+      "sha256": "4eddc3a935a9c26cfbc4134ef76f011447b61e73f1f873a692f917ee0f2ef986"
+    },
+    {
+      "accession": "P68871",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P68871-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P68871-F1-model_v6.cif",
+      "bytes": 143532,
+      "sha256": "0c1603478734a034d38f807a57badc41c2e2086daaa98334d218a9c70ace1f4e"
+    },
+    {
+      "accession": "P84022",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-P84022-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-P84022-F1-model_v6.cif",
+      "bytes": 399721,
+      "sha256": "81c20e2a9e6bac5f5eeb2121a52a8061e9db109e27fc729b74e899d7b6ec3741"
+    },
+    {
+      "accession": "Q01453",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q01453-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q01453-F1-model_v6.cif",
+      "bytes": 158350,
+      "sha256": "bdfc9f118260ccddf186dd5c2d12ae6f0b87f5b4b33d4ab0a7ebee5f61ed02b7"
+    },
+    {
+      "accession": "Q06124",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q06124-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q06124-F1-model_v6.cif",
+      "bytes": 559377,
+      "sha256": "d91ccc298386ce16a1b8d9255827b0c0d68a795220c4d74de309bf6c973cf319"
+    },
+    {
+      "accession": "Q07889",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q07889-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q07889-F1-model_v6.cif",
+      "bytes": 1283357,
+      "sha256": "ea20a647bd0eeae0c06d8a086d00ed254e52c65400ab6e917f575a690b79289d"
+    },
+    {
+      "accession": "Q13144",
+      "status": "DOWNLOADED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q13144-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q13144-F1-model_v6.cif",
+      "bytes": 659216,
+      "sha256": "0e73d3e6d2b6e1ae5140e4c98ff8803363a40c1d408766ccdb97ad91cdfaf386"
+    },
+    {
+      "accession": "Q13224",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q13224-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q13224-F1-model_v6.cif",
+      "bytes": 1399327,
+      "sha256": "15637aa5d6dde7de51001138cd1417828648cf0fcd3a85f0193b1d17653b61e2"
+    },
+    {
+      "accession": "Q13509",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q13509-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q13509-F1-model_v6.cif",
+      "bytes": 418199,
+      "sha256": "5794a59154272d363c6c890402910b8b319dc0923f7e078240dc33a9eb7997c1"
+    },
+    {
+      "accession": "Q13873",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q13873-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q13873-F1-model_v6.cif",
+      "bytes": 962205,
+      "sha256": "1f19ee59953d92e3a38d723d24f068f11dc613d35e3b54f061e97c02bf16d4fa"
+    },
+    {
+      "accession": "Q13936",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q13936-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q13936-F1-model_v6.cif",
+      "bytes": 2083459,
+      "sha256": "ae07b924b04fe30be680f32dc259d7a197cdc1db9d9f95c1b4f4ba0d0daf98e6"
+    },
+    {
+      "accession": "Q14204",
+      "status": "FETCH_FAILED",
+      "error": "HTTPError: 404 Client Error: Not Found for url: https://alphafold.ebi.ac.uk/api/prediction/Q14204"
+    },
+    {
+      "accession": "Q15831",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q15831-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q15831-F1-model_v6.cif",
+      "bytes": 403443,
+      "sha256": "f728ebed2b1b79a36217631a8bbcc28bfe5fd93d50465762987c994d4a9cbe60"
+    },
+    {
+      "accession": "Q71U36",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q71U36-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q71U36-F1-model_v6.cif",
+      "bytes": 417675,
+      "sha256": "8de53a17da439ed055b2c056ef5895ba5b2faa3451c985c8ba5e9cc4f591beea"
+    },
+    {
+      "accession": "Q99250",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q99250-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q99250-F1-model_v6.cif",
+      "bytes": 1922284,
+      "sha256": "a59503fbb6c072925c776ed2013836e88974958fdaf8e38fd36d67e08b3da667"
+    },
+    {
+      "accession": "Q9UM47",
+      "status": "REUSED",
+      "version": 6,
+      "url": "https://alphafold.ebi.ac.uk/files/AF-Q9UM47-F1-model_v6.cif",
+      "path": "data/raw/phase1B0/alphafold_db/AF-Q9UM47-F1-model_v6.cif",
+      "bytes": 2067712,
+      "sha256": "2b3bfa27e954319d94e99017e0732698fa67fbcd68e1be3edffb386261b35678"
+    }
+  ]
+}

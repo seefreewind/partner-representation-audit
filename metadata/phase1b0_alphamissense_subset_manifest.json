@@ -1,0 +1,9 @@
+{
+  "source_path": "data/raw/phase1B0/AlphaMissense_aa_substitutions.tsv.gz",
+  "source_md5": "b9ccb339e0de6cb0a8d1973ad2026576",
+  "target_key_n": 3958,
+  "subset_schema_version": 2,
+  "subset_path": "data/interim/phase1B0_alphamissense_target_subset.tsv",
+  "subset_sha256": "01f450a2a141573f4058121249eac69811fa219e48ec55e169afadf344b1f543",
+  "filtered_utc": "2026-09-28T13:38:12.453295+00:00"
+}

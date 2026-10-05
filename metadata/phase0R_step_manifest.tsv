@@ -1,0 +1,6 @@
+step	inputs	input_rows	outputs	output_rows	status
+global P/LP missense RCV seed	data/raw/variant_summary_2026-09.txt.gz	9049133	results/phase0R/global_plp_missense_rcv_seed.tsv	114506	complete
+rebuild prior 965 strict prescreen genes	data/interim/clinvar_preliminary_candidate_disease_rows.tsv	267978	results/phase0R/previous_965_gene_list.tsv	965	complete
+frozen RCV archive streaming recovery	data/raw/ClinVarRCVRelease_2026-09.xml.gz	6009299	results/phase0R/global_rcv_recovered.tsv	114506	complete
+exact RCV classification and MONDO normalization for 965 genes	global RCV records; previous 965 genes; MONDO v2026-09-01	114506	results/phase0R/strict965_attrition.tsv	965	complete
+strict-gene mechanism and PPI audit	exact strict cohort; Gene2Phenotype; GenCC; BioGRID; IntAct; PIONEER; Predictomes scores	strict exact-RCV gene count	results/phase0R/mechanism_gene_states_exact_strict.tsv; ppi_coverage_phase0R_candidates.tsv	139	complete

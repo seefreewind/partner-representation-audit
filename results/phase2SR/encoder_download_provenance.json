@@ -1,0 +1,22 @@
+{
+  "user_authorized_local_download_after_network_switch": true,
+  "date": "2026-10-02",
+  "huggingface_hub": "1.8.0",
+  "python_runtime": "/Users/zy/.hf-prott5-download-venv/bin/python",
+  "encoders": [
+    {
+      "repo": "facebook/esm2_t33_650M_UR50D",
+      "revision": "08e4846e537177426273712802403f7ba8261b6c",
+      "weight_file": "model.safetensors",
+      "bytes": 2609506392,
+      "sha256": "a08adabb949fa67ad3c14b509d04fd60368b35007b0095e3358f81200c4f4db0"
+    },
+    {
+      "repo": "ElnaggarLab/ankh-large",
+      "revision": "74b371dbfa3ee0a05d32ae74df0c2e0b82d6b9a6",
+      "weight_file": "pytorch_model.bin",
+      "bytes": 7515077421,
+      "sha256": "517b6e8b279dedcb477af240b35c46bd6eb3307723eb281e60d4b2c8a87b889b"
+    }
+  ]
+}

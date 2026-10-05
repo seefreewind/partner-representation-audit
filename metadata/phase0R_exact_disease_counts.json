@@ -1,0 +1,32 @@
+{
+  "previous_965_recovered": true,
+  "n_previous_genes": 965,
+  "n_after_exact_rcv": 941,
+  "n_after_disease_normalization": 763,
+  "n_ge2_distinct_disease": 549,
+  "n_ge5_variants_per_disease": 253,
+  "n_strict_ge10": 137,
+  "exclusion_reasons": [
+    [
+      "FEWER_THAN_TWO_DISEASES_WITH_5_VARIANTS",
+      296
+    ],
+    [
+      "FEWER_THAN_TWO_DISEASES_AFTER_PARENT_CHILD_COLLAPSE",
+      214
+    ],
+    [
+      "NO_UNAMBIGUOUS_MONDO_DISEASE",
+      178
+    ],
+    [
+      "FEWER_THAN_TWO_DISEASES_WITH_10_VARIANTS",
+      98
+    ],
+    [
+      "NO_EXACT_RCV_PLP_MISSENSE",
+      24
+    ]
+  ],
+  "path": "results/phase0R/strict965_attrition.tsv"
+}

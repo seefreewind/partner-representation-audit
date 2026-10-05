@@ -1,0 +1,98 @@
+{
+  "candidate_rcv_n": 114506,
+  "recovered_rcv_n": 114506,
+  "failed_rcv_n": 0,
+  "recovery_rate": 1.0,
+  "verdict": "GO_CONDITIONAL_MECHANISM",
+  "fallback_requested_n": 0,
+  "fallback_failure_n": 0,
+  "archive_release_dated": "2026-08-29",
+  "archive_md5_match": true,
+  "previous_965_recovered": true,
+  "n_previous_genes": 965,
+  "n_after_exact_rcv": 941,
+  "n_after_disease_normalization": 763,
+  "n_ge2_distinct_disease": 549,
+  "n_ge5_variants_per_disease": 253,
+  "n_strict_ge10": 137,
+  "exclusion_reasons": [
+    [
+      "FEWER_THAN_TWO_DISEASES_WITH_5_VARIANTS",
+      296
+    ],
+    [
+      "FEWER_THAN_TWO_DISEASES_AFTER_PARENT_CHILD_COLLAPSE",
+      214
+    ],
+    [
+      "NO_UNAMBIGUOUS_MONDO_DISEASE",
+      178
+    ],
+    [
+      "FEWER_THAN_TWO_DISEASES_WITH_10_VARIANTS",
+      98
+    ],
+    [
+      "NO_EXACT_RCV_PLP_MISSENSE",
+      24
+    ]
+  ],
+  "path": "results/phase0R/strict965_attrition.tsv",
+  "strict_gene_n": 137,
+  "CONFIRMED_COMPATIBLE": 0,
+  "UNRESOLVED": 132,
+  "CONFIRMED_INCOMPATIBLE": 5,
+  "NOT_KNOWN_INCOMPATIBLE": 132,
+  "pair_state_counts": {
+    "UNRESOLVED": 3335,
+    "CONFIRMED_INCOMPATIBLE": 7,
+    "CONFIRMED_COMPATIBLE": 25
+  },
+  "genes_ge3_credible_partners": 133,
+  "final_analyzable_genes": 0,
+  "final_analyzable_gene_symbols": [],
+  "partner_analysis_ready_gene_level_variant_fraction": 0.9644033244472322,
+  "top_five_exclusion_reasons": [
+    [
+      "FEWER_THAN_TWO_DISEASES_WITH_5_VARIANTS",
+      296
+    ],
+    [
+      "FEWER_THAN_TWO_DISEASES_AFTER_PARENT_CHILD_COLLAPSE",
+      214
+    ],
+    [
+      "NO_UNAMBIGUOUS_MONDO_DISEASE",
+      178
+    ],
+    [
+      "FEWER_THAN_TWO_DISEASES_WITH_10_VARIANTS",
+      98
+    ],
+    [
+      "NO_EXACT_RCV_PLP_MISSENSE",
+      24
+    ]
+  ],
+  "ppi_summary": {
+    "strict_gene_n": 137,
+    "genes_ge3_credible_partners": 133,
+    "genes_with_experimental_ppi": 135,
+    "genes_with_pioneer_coverage": 134,
+    "ppi_gene_n": 139,
+    "pilot_coverage": {
+      "ACTB": {
+        "credible_partners": 509,
+        "PIONEER_partners": 165
+      },
+      "ACTG1": {
+        "credible_partners": 202,
+        "PIONEER_partners": 47
+      }
+    },
+    "genes_with_predictomes_coverage": 67,
+    "source": "BioGRID MV-Physical 5.0.261; candidate-gene IntAct PSICQUIC; precomputed PIONEER very-high confidence; Predictomes SPOC >0.86",
+    "huRI": "UNAVAILABLE_TIMEOUT_RECORDED",
+    "predictomes": "PAIR_SCORE_TABLE_ACQUIRED"
+  }
+}

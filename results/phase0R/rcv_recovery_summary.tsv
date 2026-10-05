@@ -1,0 +1,2 @@
+candidate_rcv_n	recovered_rcv_n	failed_rcv_n	recovery_rate	recovery_percent	archive_rcv_n	fallback_requested_n	archive_release_dated	result
+114506	114506	0	1.00000000	100.0000	114506	0	2026-08-29	PASS
