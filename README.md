@@ -2,6 +2,8 @@
 
 Frozen code and derived evidence for a staged audit of technical scoreability, phenotype-balanced coverage and incremental phenotype information in partner-aware protein representations.
 
+Versioned archive: [Zenodo v1.0.0](https://doi.org/10.5281/zenodo.23161598). All-version DOI: [10.5281/zenodo.23161597](https://doi.org/10.5281/zenodo.23161597). The release tag preserves the original frozen archive; this README adds its assigned DOI.
+
 ## Frozen conclusions
 
 - Original disruption arm: `NO_GO_EDGETIC_REPRESENTATION`
