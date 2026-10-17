@@ -2,7 +2,7 @@
 
 Frozen code and derived evidence for a staged audit of technical scoreability, phenotype-balanced coverage and incremental phenotype information in partner-aware protein representations.
 
-Versioned archive: [Zenodo v1.0.0](https://doi.org/10.5281/zenodo.23161598). All-version DOI: [10.5281/zenodo.23161597](https://doi.org/10.5281/zenodo.23161597). The release tag preserves the original frozen archive; this README adds its assigned DOI.
+Current release: [v1.1.0](https://github.com/seefreewind/partner-representation-audit/releases/tag/v1.1.0), a metadata and documentation update. All-version DOI: [10.5281/zenodo.23161597](https://doi.org/10.5281/zenodo.23161597). The original [Zenodo v1.0.0 archive](https://doi.org/10.5281/zenodo.23161598) remains unchanged. See [release provenance](RELEASE_PROVENANCE.md) for the author and version history.
 
 ## Frozen conclusions
 
@@ -30,7 +30,11 @@ The authors' original code and derived tables/figures are released under CC BY 4
 
 ## Authors
 
-Sisi Xu; Yu Zhang; Tiantian Zeng; Jiechen Liu; Ling Qiu. Corresponding author: Ling Qiu. No journal name is included in the repository name. Archived files retain their historical paths for provenance.
+Current manuscript authors and v1.1.0 release stewards: Yu Zhang; Da Lin; Ying Chen; Yue Liu; Yi Zha; Wangqiang Feng. Correspondence: Wangqiang Feng, healthwz@163.com; ORCID [0009-0002-9041-7960](https://orcid.org/0009-0002-9041-7960).
+
+Yu Zhang, Da Lin, Yi Zha and Wangqiang Feng: The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China. Ying Chen and Yue Liu: Wenzhou Medical University, Wenzhou, China.
+
+The historical v1.0.0 archive was published with Sisi Xu, Yu Zhang, Tiantian Zeng, Jiechen Liu and Ling Qiu as creators. Its metadata and citation remain part of the provenance record. The current release does not imply that each current author created every inherited file. Archived files retain their historical paths for provenance. See RELEASE_PROVENANCE.md for the version boundary.
 
 ## Reassemble the large pairwise table
 

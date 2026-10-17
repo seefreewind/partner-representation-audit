@@ -1,21 +1,29 @@
 cff-version: 1.2.0
-message: "Please cite the versioned archive when reusing this code or derived data."
+message: "Please cite the Zenodo record for this release; the v1.0.0 record retains its original published creators."
 title: "Partner representation audit for allelic heterogeneity"
 type: software
-version: 1.0.0
-doi: 10.5281/zenodo.23161598
+version: 1.1.0
 url: https://github.com/seefreewind/partner-representation-audit
-date-released: 2026-10-05
+repository-code: https://github.com/seefreewind/partner-representation-audit
+date-released: 2026-10-17
 license: CC-BY-4.0
 authors:
-  - family-names: Xu
-    given-names: Sisi
   - family-names: Zhang
     given-names: Yu
-  - family-names: Zeng
-    given-names: Tiantian
+    affiliation: "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+  - family-names: Lin
+    given-names: Da
+    affiliation: "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+  - family-names: Chen
+    given-names: Ying
+    affiliation: "Wenzhou Medical University, Wenzhou, China"
   - family-names: Liu
-    given-names: Jiechen
-  - family-names: Qiu
-    given-names: Ling
-    orcid: https://orcid.org/0009-0007-3662-5124
+    given-names: Yue
+    affiliation: "Wenzhou Medical University, Wenzhou, China"
+  - family-names: Zha
+    given-names: Yi
+    affiliation: "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+  - family-names: Feng
+    given-names: Wangqiang
+    affiliation: "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+    orcid: https://orcid.org/0009-0002-9041-7960

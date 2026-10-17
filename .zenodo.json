@@ -1,28 +1,32 @@
 {
   "title": "Partner representation audit for allelic heterogeneity",
   "upload_type": "software",
-  "description": "Frozen code, derived results, cohort specifications and source data for the staged audit of partner-aware protein representations. Original structural disruption verdict NO_GO_EDGETIC_REPRESENTATION; sequence arm PARTIAL_SEQUENCE_RESCUE; phenotype test NO_GLOBAL_PARTNER_IDENTITY_SUPPORT. No new analysis was performed during archival preparation.",
+  "description": "Frozen code and derived evidence for benchmarking partner-specific protein representations in human allelic heterogeneity. Version 1.1.0 is a metadata and documentation release with the six current manuscript authors and release stewards: Yu Zhang, Da Lin, Ying Chen, Yue Liu, Yi Zha and Wangqiang Feng. It preserves all scientific code, data, frozen specifications, statistics and figure source files from the preceding archive without reanalysis. The original v1.0.0 archive (DOI 10.5281/zenodo.23161598) remains unchanged and retains its published creators Sisi Xu, Yu Zhang, Tiantian Zeng, Jiechen Liu and Ling Qiu. The current release metadata does not retroactively reattribute that archive. Preserved conclusions: NO_GO_EDGETIC_REPRESENTATION; PARTIAL_SEQUENCE_RESCUE; NO_GLOBAL_PARTNER_IDENTITY_SUPPORT. Pretrained weights, full encoder caches, third-party training sets and restricted raw database copies are excluded; obtain these from the original providers under their applicable licences.",
   "creators": [
     {
-      "name": "Xu, Sisi",
-      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
-    },
-    {
       "name": "Zhang, Yu",
-      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
     },
     {
-      "name": "Zeng, Tiantian",
-      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
+      "name": "Lin, Da",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
     },
     {
-      "name": "Liu, Jiechen",
-      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China"
+      "name": "Chen, Ying",
+      "affiliation": "Wenzhou Medical University, Wenzhou, China"
     },
     {
-      "name": "Qiu, Ling",
-      "affiliation": "The First Affiliated Hospital of Wenzhou Medical University, Wenzhou, Zhejiang, China",
-      "orcid": "0009-0007-3662-5124"
+      "name": "Liu, Yue",
+      "affiliation": "Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Zha, Yi",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China"
+    },
+    {
+      "name": "Feng, Wangqiang",
+      "affiliation": "The Second Affiliated Hospital of Wenzhou Medical University, Wenzhou, China",
+      "orcid": "0009-0002-9041-7960"
     }
   ],
   "keywords": [
@@ -33,5 +37,6 @@
   ],
   "access_right": "open",
   "license": "cc-by-4.0",
-  "version": "1.0.0"
+  "version": "1.1.0",
+  "publication_date": "2026-10-17"
 }
