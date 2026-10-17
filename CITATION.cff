@@ -3,6 +3,7 @@ message: "Please cite the Zenodo record for this release; the v1.0.0 record reta
 title: "Partner representation audit for allelic heterogeneity"
 type: software
 version: 1.1.0
+doi: 10.5281/zenodo.23435156
 url: https://github.com/seefreewind/partner-representation-audit
 repository-code: https://github.com/seefreewind/partner-representation-audit
 date-released: 2026-10-17

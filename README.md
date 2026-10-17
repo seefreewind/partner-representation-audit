@@ -2,7 +2,7 @@
 
 Frozen code and derived evidence for a staged audit of technical scoreability, phenotype-balanced coverage and incremental phenotype information in partner-aware protein representations.
 
-Current release: [v1.1.0](https://github.com/seefreewind/partner-representation-audit/releases/tag/v1.1.0), a metadata and documentation update. All-version DOI: [10.5281/zenodo.23161597](https://doi.org/10.5281/zenodo.23161597). The original [Zenodo v1.0.0 archive](https://doi.org/10.5281/zenodo.23161598) remains unchanged. See [release provenance](RELEASE_PROVENANCE.md) for the author and version history.
+Current versioned archive: [Zenodo v1.1.0](https://doi.org/10.5281/zenodo.23435156). GitHub release: [v1.1.0](https://github.com/seefreewind/partner-representation-audit/releases/tag/v1.1.0), a metadata and documentation update. All-version DOI: [10.5281/zenodo.23161597](https://doi.org/10.5281/zenodo.23161597). The original [Zenodo v1.0.0 archive](https://doi.org/10.5281/zenodo.23161598) remains unchanged. See [release provenance](RELEASE_PROVENANCE.md) for the author and version history.
 
 ## Frozen conclusions
 
